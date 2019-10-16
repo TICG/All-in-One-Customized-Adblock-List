@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Wednesday, 16 October 2019 2:40:20 PM AEST
+! Last Modified: Wednesday, 16 October 2019 9:42:19 PM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -1346,8 +1346,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||*$websocket,domain=agar.io|slither.io|mope.io|diep.io|narwhale.io|kartwars.io|blockor.io|splix.io|sharkz.io|meduzzza.io|wings.io|brutal.io|zlap.io|spinz.io|soccerball.io|rusher.io|duals.io|moomoo.io|bellum.io|vertix.io|sparkchess.com|powerline.io|snok.io|gota.io|protonmail.com|mailinator.com|roblox.com|
 @@||*/blank.gif*$image,domain=www.clariant.com
 @@||*advert*$domain=insite.clariant.com
-@@||*enm.com/*/*Ad$domain=androidworld.it
 @@||*enm.com/*/*ad$domain=androidworld.it
+@@||*enm.com/*/*Ad$domain=androidworld.it
 @@||/js/modernizr.js$script,first-party
 @@||1.bp.blogspot.com
 @@||1001tracklists.com^$generichide
@@ -2221,6 +2221,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||cdn.segment.com/analytics.js^$domain=creativemarket.com
 @@||cdn.segment.com/analytics.js^$domain=crunchyroll.com
 @@||cdn.segment.com/analytics.js^$domain=freshly.com
+@@||cdn.segmentify.com/*/segmentify.js$domain=gittigidiyor.com
 @@||cdn.segmentify.com/account-js/segmentify_flo.js$domain=flo.com.tr
 @@||cdn.sendpulse.com/js/push/*.js$domain=surfingbird.ru
 @@||cdn.sstatic.net^$third-party
@@ -2596,6 +2597,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||dailymail.co.uk/adstest2/$script
 @@||dailymail.co.uk/brightcove/tracking/ted3.js
 @@||dailymotion.com^$third-party
+@@||dailyprogress.com^$generichide
 @@||dallasnews.com^$generichide
 @@||danid.dk^$third-party
 @@||daretothink.co.uk/eu-cookie-law-script^
@@ -5533,6 +5535,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||segment.io/v1/$xmlhttprequest,domain=greentoe.com|thescene.com
 @@||segment-data.zqtk.net^$domain=wsj.com
 @@||segmentify.com//*/events/v1.json?apiKey=$domain=flo.com.tr
+@@||segmentify.com//add/events/v*.json?apiKey=$domain=gittigidiyor.com
+@@||segmentify.com//get/key/v*.json?$domain=gittigidiyor.com
 @@||segmentify.com//get/key/v1.json$domain=flo.com.tr
 @@||segundamano.mx^*/tealium.js
 @@||sellpoint.net/smart_button/$script,domain=walmart.com
@@ -6998,8 +7002,8 @@ _linkedin_32.
 _linkedin_icon_
 _linkedin_social_
 _links/share.
-_loghuman=
 _logHuman=
+_loghuman=
 _logikamentecookielaw/
 _logimpressions.
 _loginlog.php?
@@ -26069,6 +26073,7 @@ _zag_cookie.
 ||fruitflan.com^$third-party
 ||fruitice.realnetwrk.com^$third-party
 ||fruit-ninja-android.org^
+||frvpeuulyprl.com^
 ||frxgmxkg.bid^
 ||frxgmxkg.bid^$important
 ||frxohovv.com^
@@ -29626,6 +29631,7 @@ _zag_cookie.
 ||harvester.eu.square-enix.com^
 ||harvester.ext.square-enix-europe.com^
 ||harvester.hbpl.co.uk^
+||harvester.hnonline.sk^
 ||hasbro.com/includes/js/metrics/
 ||hasbro.com/js/omniture.js
 ||hashcoin.co^$third-party
@@ -36998,6 +37004,7 @@ _zag_cookie.
 ||lnsthqzdsvzboo.bid^
 ||lnsthqzdsvzboo.bid^$important
 ||lnustech.tk^
+||lnvnzrqdajau.com^
 ||lnwbiuetoymifj.com^
 ||lnwbiuetoymifj.com^$important
 ||lnwqvhcqw.com^
@@ -43713,6 +43720,7 @@ _zag_cookie.
 ||ozafaszolf.com^
 ||ozafaszolf.com^$important
 ||ozarslaninsaat.com.tr^
+||ozcdkiphvsnrht.com^
 ||ozcletvvphmy.com^
 ||ozcletvvphmy.com^$important
 ||ozkwhjzmboti.com^
@@ -50589,6 +50597,7 @@ _zag_cookie.
 ||sessionstack.com^$third-party
 ||session-tracker.badcreditloans.com^
 ||sestatic.fi^*/zig.js
+||seszopvxktsfn.com^
 ||setchode.com^
 ||setchode.com^$important
 ||setell.org^
@@ -53532,6 +53541,7 @@ _zag_cookie.
 ||striticumber.pro^
 ||strivesidewalk.com^
 ||strivesidewalk.com^$third-party
+||strm.yandex.ru/log?
 ||strmyy.com^
 ||stroeerdigitalmedia.de^$domain=planetsnow.de
 ||stroeerdigitalmedia.de^$third-party
@@ -55463,6 +55473,7 @@ _zag_cookie.
 ||tlgprhsl.com^
 ||tlhadcbtntr.com^
 ||tlhadcbtntr.com^$important
+||tlhiatdhw.com^
 ||t-library.net/themes/shoppe_original/js/voc89b0.js
 ||tlijmtzosfhdsz.bid^
 ||tlijmtzosfhdsz.bid^$important
@@ -65922,4 +65933,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Wednesday, 16 October 2019 2:40:20 PM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Wednesday, 16 October 2019 9:42:19 PM AEST)
