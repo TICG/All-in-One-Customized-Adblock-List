@@ -1,7 +1,7 @@
-[Adblock Plus 2.0]
+﻿[Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Wednesday, 16 October 2019 9:42:19 PM AEST
+! Last Modified: Thursday, 17 October 2019 12:30:52 PM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -24,7 +24,7 @@
 !    It is actively maintained (updates every 2 hours) and is saved in UTF-8 format. Have fun :D
 ! Maintainer: deanoman
 ! Credit: Full credit goes to original list creators and maintainers :D
-! 118 Lists Included:
+! 117 Lists Included:
 ! * 0131 Block List (Austin Huang) [Removes tedious AD and AD frames from specific popular websites such as New York Times] - https://raw.githubusercontent.com/austinhuang0131/0131-block-list/master/list.txt
 ! * Adblock Warning Removal List (EasyList) [Blocks Adblock warnings on websites.] - https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 ! * Adblock YouTube Ads (kbinani) [Blocks ads on YouTube.] - https://raw.githubusercontent.com/kbinani/adblock-youtube-ads/master/signed.txt
@@ -108,7 +108,6 @@
 ! * Personal Blocklist (WaLLy3K) [Blocks ads, trackers etc.] - https://v.firebog.net/hosts/static/w3kbl.txt
 ! * Piperun's iplogger Filter (Piperun) [Blocks websites's who's only purpose is to log your IP.] - https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
 ! * PropellerAds Domains Filter List (LanikSJ) [A list of blocked PropellerAds Domains.] - https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/propellerads-domains.txt
-! * PornList (WowDude) [Blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites.] - https://raw.githubusercontent.com/WowDude/PornList/master/PornList.txt
 ! * Press the Attack (Bogachenko) [Blocks ads.] - https://raw.githubusercontent.com/bogachenko/presstheattack/master/presstheattack.txt
 ! * Privacy Filters (metaphoricgiraffe) [Blocks online trackers.] - https://raw.githubusercontent.com/metaphoricgiraffe/tracking-filters/master/trackingfilters.txt
 ! * Privacy List (EasyList) [Improves privacy.] - https://easylist-downloads.adblockplus.org/easyprivacy.txt
@@ -1346,8 +1345,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||*$websocket,domain=agar.io|slither.io|mope.io|diep.io|narwhale.io|kartwars.io|blockor.io|splix.io|sharkz.io|meduzzza.io|wings.io|brutal.io|zlap.io|spinz.io|soccerball.io|rusher.io|duals.io|moomoo.io|bellum.io|vertix.io|sparkchess.com|powerline.io|snok.io|gota.io|protonmail.com|mailinator.com|roblox.com|
 @@||*/blank.gif*$image,domain=www.clariant.com
 @@||*advert*$domain=insite.clariant.com
-@@||*enm.com/*/*ad$domain=androidworld.it
 @@||*enm.com/*/*Ad$domain=androidworld.it
+@@||*enm.com/*/*ad$domain=androidworld.it
 @@||/js/modernizr.js$script,first-party
 @@||1.bp.blogspot.com
 @@||1001tracklists.com^$generichide
@@ -1405,6 +1404,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||a.visualrevenue.com/vrs.js$domain=t-online.de
 @@||a.wikia-beacon.com/__track/view?v=v1&c=*&lc=de&lid=62&x=devroniplag&y=$script,domain=vroniplag.wikia.com
 @@||a8.net/svt/$image,domain=samplefan.com
+@@||abc.es^$generichide
 @@||abc.net.au^*/components/share/
 @@||abcbourse.com/scripts/ads.js$script,~third-party
 @@||abclocal.go.com/combiner/c?js=*/visitorAPI.js
@@ -2031,6 +2031,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||bp.blogspot.com^$third-party
 @@||braintreegateway.com^$third-party
 @@||bramkasms.pl/templates/ja_social/$image
+@@||brave.com/wp-content/uploads/$image,~third-party
 @@||bravotube.net/ads.js
 @@||brcdn.com^$third-party
 @@||break.com^$third-party
@@ -2649,7 +2650,6 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||detik.com/urchin.js
 @@||dev.visualwebsiteoptimizer.com/j.php
 @@||dev.visualwebsiteoptimizer.com/j.php$badfilter
-@@||dev-dyod.fr/styles/ads.css
 @@||developers.google.com^$third-party
 @@||deviantart.com^$third-party
 @@||deviantart.net^$third-party
@@ -5057,9 +5057,6 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||platform.twitter.com/oct.js$domain=vulcun.com
 @@||platform.twitter.com/widgets.js
 @@||platform.twitter.com/widgets.js$domain=agame.com|cbsnews.com|complex.com|egotastic.com|guildwars2.com|livestream.com|mandatory.com|pawnation.com|pennsundayschool.com|reviews.cnet.com|simcity.com|soychile.cl|spielen.com|thedailyshow.com|wwe.com
-@@||platform.twitter.com/widgets.js$domain=cnet.com
-@@||platform.twitter.com/widgets.js$domain=idaprikol.ru
-@@||platform.twitter.com/widgets.js$domain=webfail.com
 @@||platform.twitter.com/widgets/$domain=theguardian.com
 @@||platform.twitter.com/widgets/$domain=vectorhq.com
 @@||platform.twitter.com/widgets/follow_button.$subdocument,domain=e-biznes.pl|rafflecopter.com
@@ -6146,7 +6143,6 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||tracker.mattel.com^$domain=barbie.com
 @@||tracking.unrealengine.com/tracking.js
 @@||trackjs.com^$~third-party
-@@||trackr.fr/sites/all/themes/contrib/touch/js/miroirs/adwordstracking.js
 @@||tradeciety.com/wp-content/plugins/arscode-ninja-popups/js/jquery.placeholder.js
 @@||tradera.com/fusion/check?$xmlhttprequest
 @@||tradingview.com^$third-party
@@ -8561,6 +8557,7 @@ _zag_cookie.
 ||aahfcroigwso.com^$important
 ||aahvz.top^$third-party
 ||aaimac.com^
+||aaitudxr.com^
 ||aajychvi.bid^
 ||aajychvi.bid^$important
 ||aalbbh84.info^$third-party
@@ -23403,6 +23400,7 @@ _zag_cookie.
 ||experianmarketingservices.digital^$third-party
 ||experience.contextly.com^
 ||experience.tinypass.com$xmlhttprequest
+||experience.tinypass.com/xbuilder/experience/execute?aid=
 ||experienceeggs.com^
 ||experimentalscene.com^
 ||experimentalvaccines.org^$popup,third-party
@@ -35136,6 +35134,7 @@ _zag_cookie.
 ||kitcode.net^$third-party
 ||kitsapsun.com/metrics/
 ||kitweb.tadapi.info/network/adapi.php^
+||kiupoo.stroeerdp.de^$third-party
 ||kiwari.com^*/impressions.asp?
 ||kiwi6.com^$domain=zuketapaajabhisa.blogspot.com|zuketapaajabhisa.blogspot.com.tr|zuketapaajabhisa.blogspot.ru
 ||kiwifarms.net/js/Jawsh/xmr/xmr.min.js
@@ -42650,6 +42649,7 @@ _zag_cookie.
 ||ogyhsyuhczvjg.com^$important
 ||ogzivkwjhrs.com^
 ||ogzivkwjhrs.com^$important
+||ohcohz.stroeerdp.de^$third-party
 ||ohdoxowrbkyd.com^
 ||ohecnqpldvuw.com^
 ||ohecnqpldvuw.com^$important
@@ -44474,6 +44474,7 @@ _zag_cookie.
 ||phiambczsg.com^
 ||phichaus.top^
 ||phichaus.top^$important
+||phiesi.stroeerdp.de^$third-party
 ||phiesookaeruaxah.in^
 ||philippine-embassy.ir^
 ||philpool.com^$third-party
@@ -44986,7 +44987,7 @@ _zag_cookie.
 ||platform.twitter.com/js/button.$third-party
 ||platform.twitter.com/js/timeline$domain=anbariloche.com.ar
 ||platform.twitter.com/oct.js$third-party
-||platform.twitter.com/widgets.js$domain=real-vin.com|womanel.com.ua|tribundergi.com|inforesist.org|cj3z.com|orbita.dn.ua|ppt.ru|obltv.ru|anilibria.tv|eurolab.ua|anidub.com|losst.ru|cwbaltimore.com|fox38corpuschristi.com|fox47.com|foxkansas.com|foxrichmond.com|kbsi23.com|kdsm17.com|raleighcw.com|star64.tv|wcti12.com|wpgh53.com|wtto21.com|wutv29.com|ellegirl.ru|mforos.com|news-journalonline.com|insaatnoktasi.com|pctip.ru|nk.org.ua|gercekizmir.com|xn----8sbcm1bmcar0m.xn--p1ai|altyazi.net|proglang.su|filmakinesi.net|elazigyenihaber.com|noticierodigital.com|airkule.com|manisamanset.gen.tr|filmold.com|dizilara.org|sanatatak.com|simdifilmizle.com|gidavitrini.com.tr|hizlifilmizlehd.com|belgeselciyiz.com|dizivay.com|mywebtimes.com|bedava-film.com|tomiks33.ru|fontanka.ru|belsat.eu|seirsanduk.us|queenbet4.tv|torrentbe.net|daemon-hentai.com|gazetaby.com|rmj.ru
+||platform.twitter.com/widgets.js$domain=real-vin.com|womanel.com.ua|tribundergi.com|inforesist.org|cj3z.com|orbita.dn.ua|ppt.ru|obltv.ru|anilibria.tv|eurolab.ua|anidub.com|losst.ru|cwbaltimore.com|fox38corpuschristi.com|fox47.com|foxkansas.com|foxrichmond.com|kbsi23.com|kdsm17.com|raleighcw.com|star64.tv|wcti12.com|wpgh53.com|wtto21.com|wutv29.com|ellegirl.ru|mforos.com|news-journalonline.com|insaatnoktasi.com|pctip.ru|nk.org.ua|gercekizmir.com|xn----8sbcm1bmcar0m.xn--p1ai|altyazi.net|proglang.su|filmakinesi.net|elazigyenihaber.com|noticierodigital.com|airkule.com|manisamanset.gen.tr|filmold.com|dizilara.org|sanatatak.com|simdifilmizle.com|gidavitrini.com.tr|hizlifilmizlehd.com|belgeselciyiz.com|dizivay.com|mywebtimes.com|bedava-film.com|tomiks33.ru|fontanka.ru|belsat.eu|seirsanduk.us|queenbet4.tv|torrentbe.net|daemon-hentai.com|gazetaby.com|rmj.ru|muchohentai.com
 ||platform.twitter.com/widgets/follow_button$subdocument
 ||platform.twitter.com/widgets/follow_button$third-party
 ||platform.twitter.com/widgets/tweet_button$subdocument
@@ -48055,6 +48056,7 @@ _zag_cookie.
 ||rdwcvesg.com^$important
 ||rdwfotuyp.bid^
 ||rdwfotuyp.bid^$important
+||rdxwaydglehog.com^
 ||reachandrich.antevenio.com^
 ||reachforce.com^$third-party
 ||reachlocal.com/js/tracklandingpage.js
@@ -50714,6 +50716,7 @@ _zag_cookie.
 ||sgvuexlhbgpylr.com^
 ||sgxaqysyilwkiu.com^
 ||sgxaqysyilwkiu.com^$important
+||sgycfrrkz.com^
 ||sgzlmagzrrk.com^
 ||sgzlmagzrrk.com^$important
 ||sgzsviqlvcxc.com^
@@ -65389,7 +65392,7 @@ _zag_cookie.
 ||zoowknbw.com^$important
 ||zope.net^*/ghs_wa.js
 ||zopim.com^$important
-||zopim.com^$third-party,domain=~help.ubnt.com|~nordvpn.com|~egb.com|~amaysim.com.au
+||zopim.com^$third-party,domain=~help.ubnt.com|~nordvpn.com|~egb.com|~amaysim.com.au|~endclothing.com
 ||zorosrv.com$third-party
 ||zospzfvxkshe.com^$important
 ||zostofou.link^
@@ -65933,4 +65936,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Wednesday, 16 October 2019 9:42:19 PM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Thursday, 17 October 2019 12:30:52 PM AEST)
