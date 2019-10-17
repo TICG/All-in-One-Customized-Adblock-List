@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Thursday, 17 October 2019 6:40:18 PM AEST
+! Last Modified: Thursday, 17 October 2019 10:40:19 PM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -5812,8 +5812,6 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||static.parsely.com/p.js$domain=nfl.com
 @@||static.parsely.com^$script,domain=dailystar.co.uk|express.co.uk
 @@||static.parsely.com^$script,domain=dailystar.co.uk|express.co.uk|nydailynews.com
-@@||static.radio.at/inc/v2/js/ads.js
-@@||static.radio.net/inc/v2/js/ads.js
 @@||static.rpxnow.com/js/lib/rpx.js$domain=colbertnation.com|thedailyshow.com
 @@||static.shorte.st^$domain=sh.st
 @@||static.telegraph.co.uk/*/ads.js
@@ -9427,6 +9425,7 @@ _zag_cookie.
 ||ads1*
 ||ads1.playforum.net:8080^
 ||ads2*
+||ads2.*.*^
 ||ads2.contentabc.com/ads^
 ||ads2.contentabc.com^
 ||ads3*
@@ -9477,6 +9476,7 @@ _zag_cookie.
 ||adserver-us.adtech.advertising.com/pubapi/
 ||adservice.google.*^$important
 ||adservicemedia.dk^$third-party
+||adserving.*.*^
 ||adservme.com^
 ||adsession.com^$third-party
 ||adsettings.com^$third-party
@@ -20303,8 +20303,8 @@ _zag_cookie.
 ||displaymarketplace.com^$third-party
 ||displaymate.com/cgi-bin/stat/
 ||disqus.com
-||disqus.com/api/*/listrelated.json?
 ||disqus.com/api/*/listRelated.json?
+||disqus.com/api/*/listrelated.json?
 ||disqus.com/api/ping
 ||disqus.com/api/ping?$domain=autobild.de
 ||disqus.com/api/ping?$third-party
@@ -23057,6 +23057,7 @@ _zag_cookie.
 ||euro3d.eu^
 ||euroads.dk^$third-party
 ||eurocompkft.hu^
+||eurocookie.galilcloud.wixapps.net/?cacheKiller=$third-party
 ||eurocounter.com^$third-party
 ||euroks.ru^
 ||eurolatexthai.com^
@@ -48219,6 +48220,7 @@ _zag_cookie.
 ||reddit.com/r/antifurry_irl^$document
 ||reddit.com/r/blackpeopletwitter^$document
 ||reddit.com/r/braincels^$document
+||reddit.com/r/Celouts$document
 ||reddit.com/r/conservative^$document
 ||reddit.com/r/dankmemes^$document
 ||reddit.com/r/futanari$document
@@ -65939,4 +65941,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Thursday, 17 October 2019 6:40:18 PM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Thursday, 17 October 2019 10:40:19 PM AEST)
