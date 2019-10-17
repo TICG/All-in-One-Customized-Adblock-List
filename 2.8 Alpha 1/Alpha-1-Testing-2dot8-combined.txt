@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Thursday, 17 October 2019 10:40:19 PM AEST
+! Last Modified: Friday, 18 October 2019 4:40:18 AM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -3350,6 +3350,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||google.com/js/gweb/analytics/doubletrack.js$domain=android.com
 @@||google.com/js/platform.js$domain=hiphopwired.com|listenonrepeat.com|log84.de
 @@||google.com/usability/$domain=google.com,document
+@@||googleads.g.doubleclick.net/pagead/$xmlhttprequest,domain=filmix.cc|filmix.co|filmix.site|filmix.toda
 @@||googleadservices.com/pagead/conversion_async.js$domain=knowledgecity.com
 @@||googleadservices.com/pagead/conversion_async.js$domain=ulmart.ru
 @@||google-analytics.com$domain=bt.com
@@ -3870,8 +3871,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||iklangratiz.com^$generichide
 @@||ilsole24ore.com^*/fingerprint2.min.js?
 @@||image.mahoyome.jp/images/$image,domain=mahoyome.jp
-@@||imagebam.com/js/site_ads.js
 @@||imagebam.com/JS/site_ads.js
+@@||imagebam.com/js/site_ads.js
 @@||imagecorn.com^$third-party
 @@||imagefap.com^*/ad_loader.js
 @@||imageg.net^$third-party
@@ -6996,8 +6997,8 @@ _linkedin_32.
 _linkedin_icon_
 _linkedin_social_
 _links/share.
-_logHuman=
 _loghuman=
+_logHuman=
 _logikamentecookielaw/
 _logimpressions.
 _loginlog.php?
@@ -28338,7 +28339,7 @@ _zag_cookie.
 ||googletagmanager.com^$domain=javfinder.sh
 ||googletagmanager.com^$important
 ||googletagservices.com/tag/js/
-||googletagservices.com/tag/js/gpt.js$domain=sinoptik.ua|gutefrage.net|qtv.ua|dt.ua|ngs.ru|unian.net|easybib.com|bohenon.com|linuxtopia.org|newsroom.kh.ua|hclips.com|noticierodigital.com|northumberlandgazette.co.uk|mywebtimes.com|watchuseek.com|telekritika.ua|gamepedia.com|fontanka.ru|vesti.ua|bhub.com.ua|guhoyas.com|rst.ua|hh.ru|buhgalter.com.ua|unocero.com|autonews.com
+||googletagservices.com/tag/js/gpt.js$domain=sinoptik.ua|gutefrage.net|qtv.ua|dt.ua|ngs.ru|unian.net|easybib.com|bohenon.com|linuxtopia.org|newsroom.kh.ua|hclips.com|noticierodigital.com|northumberlandgazette.co.uk|mywebtimes.com|watchuseek.com|telekritika.ua|gamepedia.com|fontanka.ru|vesti.ua|bhub.com.ua|guhoyas.com|rst.ua|hh.ru|buhgalter.com.ua|unocero.com|autonews.com|metropoles.com
 ||googletagservices.com^$important
 ||googletagservices.com^*/osd.js$third-party
 ||googletagservices.com^*/osd_listener.js$third-party
@@ -65941,4 +65942,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Thursday, 17 October 2019 10:40:19 PM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Friday, 18 October 2019 4:40:18 AM AEST)
