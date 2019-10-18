@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Friday, 18 October 2019 8:40:18 AM AEST
+! Last Modified: Friday, 18 October 2019 12:40:21 PM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -1198,6 +1198,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@/advert.js$script
 @@/advert.js$script,badfilter
 @@/advertise.js$script
+@@/advertisement.js$script,~third-party,domain=arabe-media.com
 @@/advertisement.js$script,~third-party,domain=fun-animes.fr|macupload.net|upload.ac
 @@/advertisement.js$script,badfilter
 @@/advertisement.js$script,xmlhttprequest
@@ -1345,8 +1346,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||*$websocket,domain=agar.io|slither.io|mope.io|diep.io|narwhale.io|kartwars.io|blockor.io|splix.io|sharkz.io|meduzzza.io|wings.io|brutal.io|zlap.io|spinz.io|soccerball.io|rusher.io|duals.io|moomoo.io|bellum.io|vertix.io|sparkchess.com|powerline.io|snok.io|gota.io|protonmail.com|mailinator.com|roblox.com|
 @@||*/blank.gif*$image,domain=www.clariant.com
 @@||*advert*$domain=insite.clariant.com
-@@||*enm.com/*/*ad$domain=androidworld.it
 @@||*enm.com/*/*Ad$domain=androidworld.it
+@@||*enm.com/*/*ad$domain=androidworld.it
 @@||/js/modernizr.js$script,first-party
 @@||1.bp.blogspot.com
 @@||1001tracklists.com^$generichide
@@ -6997,8 +6998,8 @@ _linkedin_32.
 _linkedin_icon_
 _linkedin_social_
 _links/share.
-_logHuman=
 _loghuman=
+_logHuman=
 _logikamentecookielaw/
 _logimpressions.
 _loginlog.php?
@@ -7240,7 +7241,6 @@ _zag_cookie.
 |/js/youmaylike/*
 |/js/zss*
 ||$xmlhttprequest,domain=streamango.com
-||*$csp=worker-src 'none',1p
 ||*$ping,1p,important
 ||*.com/_/batch$xmlhttprequest,first-party
 ||*.consensu.org/*
@@ -65942,4 +65942,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Friday, 18 October 2019 8:40:18 AM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Friday, 18 October 2019 12:40:21 PM AEST)
