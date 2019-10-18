@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Friday, 18 October 2019 6:40:22 PM AEST
+! Last Modified: Friday, 18 October 2019 8:40:20 PM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -1346,8 +1346,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||*$websocket,domain=agar.io|slither.io|mope.io|diep.io|narwhale.io|kartwars.io|blockor.io|splix.io|sharkz.io|meduzzza.io|wings.io|brutal.io|zlap.io|spinz.io|soccerball.io|rusher.io|duals.io|moomoo.io|bellum.io|vertix.io|sparkchess.com|powerline.io|snok.io|gota.io|protonmail.com|mailinator.com|roblox.com|
 @@||*/blank.gif*$image,domain=www.clariant.com
 @@||*advert*$domain=insite.clariant.com
-@@||*enm.com/*/*Ad$domain=androidworld.it
 @@||*enm.com/*/*ad$domain=androidworld.it
+@@||*enm.com/*/*Ad$domain=androidworld.it
 @@||/js/modernizr.js$script,first-party
 @@||1.bp.blogspot.com
 @@||1001tracklists.com^$generichide
@@ -2437,6 +2437,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||computerworld.com/resources/scripts/lib/demandbase.js$script
 @@||comunio.de/scripts/advertising/adInit*
 @@||comunio.de/scripts/advertising/adInit.
+@@||concert.io^*/concert_ads.js$script,third-party
 @@||config.parsely.com/config/$script,domain=dailystar.co.uk|express.co.uk
 @@||connatix.com/min/connatix.renderer.infeed.min.js$domain=collider.com|gamepress.gg|salon.com
 @@||connect.facebook.com^*/AudienceNetworkPrebid.js$domain=vice.com
@@ -3351,14 +3352,14 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||google.com/js/gweb/analytics/doubletrack.js$domain=android.com
 @@||google.com/js/platform.js$domain=hiphopwired.com|listenonrepeat.com|log84.de
 @@||google.com/usability/$domain=google.com,document
-@@||googleads.g.doubleclick.net/pagead/$xmlhttprequest,domain=filmix.cc|filmix.co|filmix.site|filmix.toda
+@@||googleads.g.doubleclick.net/pagead/$xmlhttprequest,domain=filmix.cc|filmix.co|filmix.site|filmix.today
 @@||googleadservices.com/pagead/conversion_async.js$domain=knowledgecity.com
 @@||googleadservices.com/pagead/conversion_async.js$domain=ulmart.ru
 @@||google-analytics.com$domain=bt.com
 @@||google-analytics.com/analytics.js$domain=0mniscient.github.io
 @@||google-analytics.com/analytics.js$domain=1000.menu
 @@||google-analytics.com/analytics.js$domain=24timezones.com
-@@||google-analytics.com/analytics.js$domain=afternic.com|allmusic.com|amctv.com|bebo.com|bennysva.com|blastingnews.com|ch10.co.il|cliphunter.com|daemon-tools.cc|desigual.com|easyjet.com|firehousesubs.com|gamepix.com|greentoe.com|housing.wisc.edu|infogr.am|jackbox.tv|jobs.net|keygames.com|manowthaimordialloc.com.au|maxiclimber.com|orbitum.com|pluto.tv|pure.com|rebtel.com|sbnation.com|sci2.tv|seatgeek.com|stitcher.com|support.amd.com|tagheuer.com.au|tv10play.se|tv3play.se|tv6play.se|tv8play.se|video.pbs.org|vox.com|vpnster.com|weather.gov|westernunion.at|westernunion.be|westernunion.ca|westernunion.ch|westernunion.cl|westernunion.co.jp|westernunion.co.nz|westernunion.co.uk|westernunion.co.za|westernunion.com|westernunion.com.au|westernunion.com.co|westernunion.com.hk|westernunion.com.my|westernunion.com.pe|westernunion.de|westernunion.fr|westernunion.ie|westernunion.it|westernunion.nl|westernunion.ph|westernunion.pl|westernunion.se|westernunion.sg|www.google.com
+@@||google-analytics.com/analytics.js$domain=afternic.com|allmusic.com|amctv.com|bebo.com|bennysva.com|blastingnews.com|ch10.co.il|cliphunter.com|daemon-tools.cc|desigual.com|easyjet.com|firehousesubs.com|gamepix.com|greentoe.com|housing.wisc.edu|infogr.am|jackbox.tv|jobs.net|keygames.com|manowthaimordialloc.com.au|maxiclimber.com|orbitum.com|pluto.tv|pure.com|rebtel.com|sbnation.com|sci2.tv|seatgeek.com|stitcher.com|support.amd.com|tagheuer.com.au|theverge.com|tv10play.se|tv3play.se|tv6play.se|tv8play.se|video.pbs.org|vox.com|vpnster.com|weather.gov|westernunion.at|westernunion.be|westernunion.ca|westernunion.ch|westernunion.cl|westernunion.co.jp|westernunion.co.nz|westernunion.co.uk|westernunion.co.za|westernunion.com|westernunion.com.au|westernunion.com.co|westernunion.com.hk|westernunion.com.my|westernunion.com.pe|westernunion.de|westernunion.fr|westernunion.ie|westernunion.it|westernunion.nl|westernunion.ph|westernunion.pl|westernunion.se|westernunion.sg|www.google.com
 @@||google-analytics.com/analytics.js$domain=afternic.com|clipitto.com|deviantart.com
 @@||google-analytics.com/analytics.js$domain=amd.com
 @@||google-analytics.com/analytics.js$domain=anadolu.edu.tr
@@ -3551,7 +3552,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||googletagmanager.com/gtag/js$domain=malwaretips.com
 @@||googletagmanager.com/gtag/js$domain=shiftdelete.net
 @@||googletagmanager.com/gtag/js$script,domain=klix.ba
-@@||googletagmanager.com/gtag/js$script,domain=m.putlocker.how
+@@||googletagmanager.com/gtag/js$script,domain=m.putlocker.how|theverge.com
 @@||googletagmanager.com/gtag/js^$domain=stardock.com
 @@||googletagmanager.com/gtag/js^$domain=teb.com.tr
 @@||googletagmanager.com/gtm.js$domain=20min.ch
@@ -3872,8 +3873,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||iklangratiz.com^$generichide
 @@||ilsole24ore.com^*/fingerprint2.min.js?
 @@||image.mahoyome.jp/images/$image,domain=mahoyome.jp
-@@||imagebam.com/js/site_ads.js
 @@||imagebam.com/JS/site_ads.js
+@@||imagebam.com/js/site_ads.js
 @@||imagecorn.com^$third-party
 @@||imagefap.com^*/ad_loader.js
 @@||imageg.net^$third-party
@@ -6418,8 +6419,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||vortez.net^$generichide
 @@||vouchercodes.co.uk/__wsm.gif$ping
 @@||vox-cdn.com/javascripts/lib/advertisement.
-@@||vox-cdn.com/packs/concert_ads$script
 @@||vox-cdn.com/packs/concert_ads$script,badfilter
+@@||vox-cdn.com/packs/concert_ads-$script,third-party
 @@||vox-cdn.com^$third-party
 @@||voxmedia.com^$third-party
 @@||voya.ai^*/mixpanel-jslib-snippet.min.js$domain=voya.ai
@@ -20304,8 +20305,8 @@ _zag_cookie.
 ||displaymarketplace.com^$third-party
 ||displaymate.com/cgi-bin/stat/
 ||disqus.com
-||disqus.com/api/*/listRelated.json?
 ||disqus.com/api/*/listrelated.json?
+||disqus.com/api/*/listRelated.json?
 ||disqus.com/api/ping
 ||disqus.com/api/ping?$domain=autobild.de
 ||disqus.com/api/ping?$third-party
@@ -49910,6 +49911,7 @@ _zag_cookie.
 ||saofjopps.com^
 ||saol.co^
 ||sap.com/global/ui/js/trackinghelper.js
+||sape.ru^$important
 ||sapere.it^*_slimheader.
 ||sapha.com^$third-party
 ||sapindaceaactinoblast.repipeseattlenow.com^
@@ -65942,4 +65944,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Friday, 18 October 2019 6:40:22 PM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Friday, 18 October 2019 8:40:20 PM AEST)
