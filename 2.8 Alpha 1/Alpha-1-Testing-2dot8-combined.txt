@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Friday, 18 October 2019 10:40:19 PM AEST
+! Last Modified: Saturday, 19 October 2019 2:40:18 AM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -1346,8 +1346,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||*$websocket,domain=agar.io|slither.io|mope.io|diep.io|narwhale.io|kartwars.io|blockor.io|splix.io|sharkz.io|meduzzza.io|wings.io|brutal.io|zlap.io|spinz.io|soccerball.io|rusher.io|duals.io|moomoo.io|bellum.io|vertix.io|sparkchess.com|powerline.io|snok.io|gota.io|protonmail.com|mailinator.com|roblox.com|
 @@||*/blank.gif*$image,domain=www.clariant.com
 @@||*advert*$domain=insite.clariant.com
-@@||*enm.com/*/*ad$domain=androidworld.it
 @@||*enm.com/*/*Ad$domain=androidworld.it
+@@||*enm.com/*/*ad$domain=androidworld.it
 @@||/js/modernizr.js$script,first-party
 @@||1.bp.blogspot.com
 @@||1001tracklists.com^$generichide
@@ -1830,6 +1830,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||asendiausa.com/tracking/js/tracking/customertracking.js?
 @@||asos.com/Content/images/*-ico
 @@||aspnetcdn.com^$third-party
+@@||asset.pagefair.com/adimages/$domain=adn.com
 @@||asset.pagefair.com/adimages/textlink-ads.jpg$domain=eastbaytimes.com
 @@||asset.pagefair.com/adimages/textlink-ads.jpg$domain=ocregister.com
 @@||asset.pagefair.com/adimages/textlink-ads.jpg$domain=theoaklandpress.com|dailybreeze.com|mercurynews.com|chicoer.com|delcotimes.com|denverpost.com|macombdaily.com|newsday.com|pe.com|reviewjournal.com|trentonian.com|twincities.com
@@ -2180,6 +2181,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||cdn.embedly.com^$third-party
 @@||cdn.gallerix.asia/x/code/ads/advertisement.js
 @@||cdn.georiot.com/snippet.js$domain=techadvisor.co.uk
+@@||cdn.georiot.com/snippet.js$domain=webwereld.nl
 @@||cdn.hanime.tv/exoclick.ads*.js
 @@||cdn.hometogo.net^$third-party
 @@||cdn.iubenda.com/cookie_solution/*.js$domain=iphoneitalia.com
@@ -3874,8 +3876,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||iklangratiz.com^$generichide
 @@||ilsole24ore.com^*/fingerprint2.min.js?
 @@||image.mahoyome.jp/images/$image,domain=mahoyome.jp
-@@||imagebam.com/js/site_ads.js
 @@||imagebam.com/JS/site_ads.js
+@@||imagebam.com/js/site_ads.js
 @@||imagecorn.com^$third-party
 @@||imagefap.com^*/ad_loader.js
 @@||imageg.net^$third-party
@@ -6781,6 +6783,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@analytics^$domain=wwe.com
 @@blizzard.com
 @@cinevood.club
+@@cloudfront.net/index.js$domain=adn.com
 @@fleetilla.com/fleetOrb/Fleetilla/
 @@http://www.ad.tomshardware.com/play/
 @@http://www.ad.tomshardware.com/xmlconfig.xml
@@ -7000,8 +7003,8 @@ _linkedin_32.
 _linkedin_icon_
 _linkedin_social_
 _links/share.
-_logHuman=
 _loghuman=
+_logHuman=
 _logikamentecookielaw/
 _logimpressions.
 _loginlog.php?
@@ -11482,6 +11485,7 @@ _zag_cookie.
 ||apsntakwzycu.com^$important
 ||aptaeabkg.com^
 ||aptaeabkg.com^$important
+||aptashark.club^$third-party
 ||ap-transz.hu^
 ||apture.com/v3/?5=%7b%22stats%22$xmlhttprequest
 ||apture.com^$script,third-party
@@ -15308,6 +15312,7 @@ _zag_cookie.
 ||cczixhwxprith.com^
 ||cd.musicmass.com^
 ||cd8iw9mh.cricket^$important
+||cdaction.pl/privacy/popup.js
 ||c-date.at/sites/c-date.ch/modules/tracking
 ||c-date.it/tracking?
 ||c-date.it^*/tracking2/tr.js
@@ -20306,8 +20311,8 @@ _zag_cookie.
 ||displaymarketplace.com^$third-party
 ||displaymate.com/cgi-bin/stat/
 ||disqus.com
-||disqus.com/api/*/listRelated.json?
 ||disqus.com/api/*/listrelated.json?
+||disqus.com/api/*/listRelated.json?
 ||disqus.com/api/ping
 ||disqus.com/api/ping?$domain=autobild.de
 ||disqus.com/api/ping?$third-party
@@ -28341,7 +28346,7 @@ _zag_cookie.
 ||googletagmanager.com^$domain=javfinder.sh
 ||googletagmanager.com^$important
 ||googletagservices.com/tag/js/
-||googletagservices.com/tag/js/gpt.js$domain=sinoptik.ua|gutefrage.net|qtv.ua|dt.ua|ngs.ru|unian.net|easybib.com|bohenon.com|linuxtopia.org|newsroom.kh.ua|hclips.com|noticierodigital.com|northumberlandgazette.co.uk|mywebtimes.com|watchuseek.com|telekritika.ua|gamepedia.com|fontanka.ru|vesti.ua|bhub.com.ua|guhoyas.com|rst.ua|hh.ru|buhgalter.com.ua|unocero.com|autonews.com|metropoles.com
+||googletagservices.com/tag/js/gpt.js$domain=sinoptik.ua|gutefrage.net|qtv.ua|dt.ua|ngs.ru|unian.net|easybib.com|bohenon.com|linuxtopia.org|newsroom.kh.ua|hclips.com|noticierodigital.com|northumberlandgazette.co.uk|mywebtimes.com|watchuseek.com|telekritika.ua|gamepedia.com|fontanka.ru|vesti.ua|bhub.com.ua|guhoyas.com|rst.ua|hh.ru|buhgalter.com.ua|unocero.com|autonews.com|metropoles.com|okezone.com
 ||googletagservices.com^$important
 ||googletagservices.com^*/osd.js$third-party
 ||googletagservices.com^*/osd_listener.js$third-party
@@ -44991,7 +44996,7 @@ _zag_cookie.
 ||platform.twitter.com/js/button.$third-party
 ||platform.twitter.com/js/timeline$domain=anbariloche.com.ar
 ||platform.twitter.com/oct.js$third-party
-||platform.twitter.com/widgets.js$domain=real-vin.com|womanel.com.ua|tribundergi.com|inforesist.org|cj3z.com|orbita.dn.ua|ppt.ru|obltv.ru|anilibria.tv|eurolab.ua|anidub.com|losst.ru|cwbaltimore.com|fox38corpuschristi.com|fox47.com|foxkansas.com|foxrichmond.com|kbsi23.com|kdsm17.com|raleighcw.com|star64.tv|wcti12.com|wpgh53.com|wtto21.com|wutv29.com|ellegirl.ru|mforos.com|news-journalonline.com|insaatnoktasi.com|pctip.ru|nk.org.ua|gercekizmir.com|xn----8sbcm1bmcar0m.xn--p1ai|altyazi.net|proglang.su|filmakinesi.net|elazigyenihaber.com|noticierodigital.com|airkule.com|manisamanset.gen.tr|filmold.com|dizilara.org|sanatatak.com|simdifilmizle.com|gidavitrini.com.tr|hizlifilmizlehd.com|belgeselciyiz.com|dizivay.com|mywebtimes.com|bedava-film.com|tomiks33.ru|fontanka.ru|belsat.eu|seirsanduk.us|queenbet4.tv|torrentbe.net|daemon-hentai.com|gazetaby.com|rmj.ru|muchohentai.com
+||platform.twitter.com/widgets.js$domain=real-vin.com|womanel.com.ua|tribundergi.com|inforesist.org|cj3z.com|orbita.dn.ua|ppt.ru|obltv.ru|anilibria.tv|eurolab.ua|anidub.com|losst.ru|cwbaltimore.com|fox38corpuschristi.com|fox47.com|foxkansas.com|foxrichmond.com|kbsi23.com|kdsm17.com|raleighcw.com|star64.tv|wcti12.com|wpgh53.com|wtto21.com|wutv29.com|ellegirl.ru|mforos.com|news-journalonline.com|insaatnoktasi.com|pctip.ru|nk.org.ua|gercekizmir.com|xn----8sbcm1bmcar0m.xn--p1ai|altyazi.net|proglang.su|filmakinesi.net|elazigyenihaber.com|noticierodigital.com|airkule.com|manisamanset.gen.tr|filmold.com|dizilara.org|sanatatak.com|simdifilmizle.com|gidavitrini.com.tr|hizlifilmizlehd.com|belgeselciyiz.com|dizivay.com|mywebtimes.com|bedava-film.com|tomiks33.ru|fontanka.ru|belsat.eu|seirsanduk.us|queenbet4.tv|torrentbe.net|daemon-hentai.com|gazetaby.com|rmj.ru|muchohentai.com|magazinekibi.com
 ||platform.twitter.com/widgets/follow_button$subdocument
 ||platform.twitter.com/widgets/follow_button$third-party
 ||platform.twitter.com/widgets/tweet_button$subdocument
@@ -48613,6 +48618,7 @@ _zag_cookie.
 ||rezbzvrbemeb.bid^$important
 ||rezfubngrzdet.bid^
 ||rezfubngrzdet.bid^$important
+||rezka.ag/setinfo/
 ||reztksclx.com^
 ||reztksclx.com^$important
 ||reztrack.com^$third-party
@@ -65945,4 +65951,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Friday, 18 October 2019 10:40:19 PM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Saturday, 19 October 2019 2:40:18 AM AEST)
