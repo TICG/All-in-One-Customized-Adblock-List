@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Sunday, 20 October 2019 8:40:19 AM AEST
+! Last Modified: Sunday, 20 October 2019 10:40:20 AM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -3774,6 +3774,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||heidoc.net/amazon/detect.js
 @@||heise.de/support/lib/doubleclicktag.js
 @@||helium.com^$third-party
+@@||hellenicbank.com/portalserver/*/cookies-consent.js$script
 @@||hello.distribeo.com/atconnect/*?duration=$script,domain=laposte.fr
 @@||hello.firefox.com^$third-party
 @@||hellobar.com^$third-party
@@ -5544,6 +5545,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||segmentify.com//get/key/v1.json$domain=flo.com.tr
 @@||segundamano.mx^*/tealium.js
 @@||sellpoint.net/smart_button/$script,domain=walmart.com
+@@||selly.pl/wp-content/themes/$image
 @@||sentifi.com^$domain=moneycontrol.com
 @@||seo-fast.ru/js/adv.js
 @@||sephora.fr/eStore-webMaster/js/common/acceptCookies.js
@@ -6576,6 +6578,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||wired.com^*/cn-fe-stats/
 @@||wired.it/static/js/cn-adv.js
 @@||wishabi.com^$third-party
+@@||wishpost.cn/api/tracking/
 @@||wistia.com^$third-party
 @@||wistia.net^$third-party
 @@||wiwo.de^*/iqadcontroller.js
@@ -37404,6 +37407,7 @@ _zag_cookie.
 ||lpdeuhyakoits.bid^$important
 ||lpiqwtsuduhh.com^
 ||lpiqwtsuduhh.com^$important
+||lpiwenesruwn.com^
 ||lplqyocxmify.com^
 ||lplqyocxmify.com^$important
 ||lplznzccvn.bid^
@@ -65995,4 +65999,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Sunday, 20 October 2019 8:40:19 AM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Sunday, 20 October 2019 10:40:20 AM AEST)
