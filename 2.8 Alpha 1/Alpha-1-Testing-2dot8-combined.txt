@@ -1,7 +1,7 @@
-[Adblock Plus 2.0]
+﻿[Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Saturday, 19 October 2019 12:40:19 PM AEST
+! Last Modified: Saturday, 19 October 2019 4:07:25 PM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -3877,8 +3877,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||iklangratiz.com^$generichide
 @@||ilsole24ore.com^*/fingerprint2.min.js?
 @@||image.mahoyome.jp/images/$image,domain=mahoyome.jp
-@@||imagebam.com/JS/site_ads.js
 @@||imagebam.com/js/site_ads.js
+@@||imagebam.com/JS/site_ads.js
 @@||imagecorn.com^$third-party
 @@||imagefap.com^*/ad_loader.js
 @@||imageg.net^$third-party
@@ -17346,6 +17346,7 @@ _zag_cookie.
 ||consumerreports.org^*/s_code.js
 ||consumerreward.net^
 ||consumersurvey10.com^
+||contactatonce.com/GetAgentStatusImage.aspx?
 ||contactatonce.com/VisitorContext.aspx?
 ||contactlab.it^*/subscribe.php?
 ||contactmonkey.com^$third-party
@@ -23147,6 +23148,9 @@ _zag_cookie.
 ||event2.xvideo-jp.com/dmm_campaign.php
 ||event-analytics.yesware.com/main.js
 ||event-analytics.yesware.com^
+||event-api.contactatonce.co.uk^
+||event-api.contactatonce.com.au^
+||event-api.contactatonce.com^
 ||eventapi.libring.com^
 ||eventbeacon.ca^$third-party
 ||eventcapture03.com^$third-party
@@ -65964,4 +65968,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Saturday, 19 October 2019 12:40:19 PM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Saturday, 19 October 2019 4:07:25 PM AEST)
