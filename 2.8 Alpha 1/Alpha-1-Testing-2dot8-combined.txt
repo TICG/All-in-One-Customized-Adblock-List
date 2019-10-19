@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Saturday, 19 October 2019 6:40:21 PM AEST
+! Last Modified: Saturday, 19 October 2019 10:40:18 PM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -7005,8 +7005,8 @@ _linkedin_32.
 _linkedin_icon_
 _linkedin_social_
 _links/share.
-_loghuman=
 _logHuman=
+_loghuman=
 _logikamentecookielaw/
 _logimpressions.
 _loginlog.php?
@@ -9983,6 +9983,7 @@ _zag_cookie.
 ||aicrgbnswhc.bid^
 ||aicrgbnswhc.bid^$important
 ||aid-ad.jp^$third-party
+||aidalbark.site^$important
 ||aidata.io^$third-party
 ||aidma.104.com.tw/js/e104aidma.php
 ||aigysycrmuoetk.com^
@@ -17003,6 +17004,7 @@ _zag_cookie.
 ||codghostshacks.net^
 ||codghostshacks.org^
 ||codice.shinystat.it/cgi-bin/getcod.cgi$script
+||coepzyavjda.com^
 ||cofybuwuc.com^
 ||cofybuwuc.com^$important
 ||cogmatch.net^$third-party
@@ -17015,6 +17017,7 @@ _zag_cookie.
 ||cohhcaahxxcf.com^$important
 ||coinad.com/ads/show/show.php$inline-script,first-party
 ||coinad.com/ads/show/show.php$subdocument
+||coinad.com^$important
 ||coinanza.com^
 ||coinbase.com/assets/application-*.js$third-party
 ||coinblind.com^$third-party
@@ -17316,6 +17319,7 @@ _zag_cookie.
 ||consensu.org/gdpr/$third-party
 ||consensu.org/gdpr/cmp/gdpr-cmp-ui.js$script
 ||consensu.org/t/consent_$script
+||consensu.org^$important
 ||consensu.org^$third-party
 ||consent.23g.io^
 ||consent.cmp.oath.com^
@@ -20320,8 +20324,8 @@ _zag_cookie.
 ||displaymarketplace.com^$third-party
 ||displaymate.com/cgi-bin/stat/
 ||disqus.com
-||disqus.com/api/*/listrelated.json?
 ||disqus.com/api/*/listRelated.json?
+||disqus.com/api/*/listrelated.json?
 ||disqus.com/api/ping
 ||disqus.com/api/ping?$domain=autobild.de
 ||disqus.com/api/ping?$third-party
@@ -28531,6 +28535,7 @@ _zag_cookie.
 ||gqorytmpkjdq.com^$important
 ||gqosdcpjxajae.com^
 ||gqosdcpjxajae.com^$important
+||gqqdlckj8y.com^$important
 ||gqqsqbipuhlzb.com^
 ||gqqsqbipuhlzb.com^$important
 ||gqrsxfwxvx.com^
@@ -37728,6 +37733,7 @@ _zag_cookie.
 ||lwjzsigenxsl.com^$important
 ||lwljmcved.bid^
 ||lwljmcved.bid^$important
+||lwmwrsfzm.com^
 ||lwmxykibvt.bid^
 ||lwmxykibvt.bid^$important
 ||lwnpbwds.bid^
@@ -42296,6 +42302,7 @@ _zag_cookie.
 ||nzkjbazl.com^$important
 ||nzkoreapost.com/banners/$domain=nzkoreapost.com
 ||nzkxmphfbqrfzs.com^
+||nzlydrgumirn.com^
 ||nzonscreen.com/track_video_item
 ||nzp0bz44c4.ru^
 ||nzpages.co.nz^*/track.js
@@ -45015,6 +45022,7 @@ _zag_cookie.
 ||platform.twitter.com/widgets/follow_button$third-party
 ||platform.twitter.com/widgets/tweet_button$subdocument
 ||platform.twitter.com/widgets/tweet_button$third-party
+||platform.twitter.com^$domain=hindilinks4u.co,important
 ||platformpanda.com^$third-party
 ||plaxo.com^$third-party
 ||play.com/analytics/
@@ -45299,6 +45307,7 @@ _zag_cookie.
 ||pohguiypgprqr.bid^
 ||pohguiypgprqr.bid^$important
 ||pointcodes4free.com^
+||pointillist.com^^$third-party
 ||pointmyfile.com^
 ||pointomatic.com^$third-party
 ||points.riotcodegenerator.com^
@@ -46355,6 +46364,7 @@ _zag_cookie.
 ||pushbird.com^$third-party
 ||pushbots.com^$third-party
 ||pushbox.info^$third-party
+||pushbullet.com^$important
 ||pushbullet.com^$third-party
 ||pushcentr.com^$third-party
 ||push-centr.com^$third-party
@@ -52771,6 +52781,7 @@ _zag_cookie.
 ||statdynamic.com^$third-party
 ||state.sml2.ru^$third-party
 ||statesmanjournal.com^*/articlepageview.php?
+||stathat.com^$important
 ||stathat.com^$third-party
 ||stathound.com^$third-party
 ||static*.linkedin.com/scds/common/$image,third-party
@@ -56546,6 +56557,7 @@ _zag_cookie.
 ||trafcenter.us^
 ||trafdriver.com^
 ||trafex.net^$third-party
+||traffdaq.com^$important
 ||traffic.acwebconnecting.com^
 ||traffic.adxprts.com^
 ||traffic.belaydevelopment.com^$third-party
@@ -58288,6 +58300,7 @@ _zag_cookie.
 ||upgwdilkhlwguz.bid^$important
 ||uphero.com^
 ||upi.com/*/stat/
+||upikeoshfhw.com^
 ||upitnow.top^$important
 ||uploadamigo.com^
 ||uploadcash.org^
@@ -64803,6 +64816,7 @@ _zag_cookie.
 ||zanox-affiliate.de^$third-party
 ||zansceeifcmm.com^
 ||zansceeifcmm.com^$important
+||zap.buzz^$important
 ||zap.dw-world.de^$image
 ||zap2it.com^*/editorial-partner/
 ||zaparena.com^$third-party
@@ -65880,6 +65894,7 @@ _zag_cookie.
 |http*$script,domain=primewire.org,third-party
 |http*$xmlhttprequest,domain=primewire.ag|primewire.in|primewire.org,third-party
 |http*$xmlhttprequest,domain=streamcloud.eu
+|http*:*&action=js_stats_$important
 |http*:*.html?clicktag=$important
 |http*:*/?ip=*&zoneid=$important,popup
 |http*:*/adclck.*^$important,popup
@@ -65970,4 +65985,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Saturday, 19 October 2019 6:40:21 PM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Saturday, 19 October 2019 10:40:18 PM AEST)
