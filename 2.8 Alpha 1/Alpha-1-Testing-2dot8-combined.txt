@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Saturday, 19 October 2019 10:40:18 PM AEST
+! Last Modified: Sunday, 20 October 2019 4:40:20 AM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -3877,8 +3877,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||iklangratiz.com^$generichide
 @@||ilsole24ore.com^*/fingerprint2.min.js?
 @@||image.mahoyome.jp/images/$image,domain=mahoyome.jp
-@@||imagebam.com/JS/site_ads.js
 @@||imagebam.com/js/site_ads.js
+@@||imagebam.com/JS/site_ads.js
 @@||imagecorn.com^$third-party
 @@||imagefap.com^*/ad_loader.js
 @@||imageg.net^$third-party
@@ -7005,8 +7005,8 @@ _linkedin_32.
 _linkedin_icon_
 _linkedin_social_
 _links/share.
-_logHuman=
 _loghuman=
+_logHuman=
 _logikamentecookielaw/
 _logimpressions.
 _loginlog.php?
@@ -22905,7 +22905,6 @@ _zag_cookie.
 ||estream.to/player.js
 ||estream.to^
 ||estream.to^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.escdn.co *.cloudflare.com
-||estream.to^$important
 ||esults.net*
 ||esundpxbixeqgu.com^
 ||esundpxbixeqgu.com^$important
@@ -24224,6 +24223,7 @@ _zag_cookie.
 ||fdrkesvb.com^$important
 ||fdrqokusnwpq.com^
 ||fdrqokusnwpq.com^$important
+||fdrqqpeengzj.com^
 ||fdtvsqnkujlwaa.bid^
 ||fdtvsqnkujlwaa.bid^$important
 ||fduyzzjazngphw.bid^
@@ -37419,6 +37419,7 @@ _zag_cookie.
 ||lptggobhuuxcdw.com^$important
 ||lptracker.ru^$third-party
 ||lpwzjhkuwbe.com^
+||lpxdkhfauevov.com^
 ||lpxxafsupgsho.com^
 ||lpxxafsupgsho.com^$important
 ||lpzltglosmbqul.bid^
@@ -37734,6 +37735,7 @@ _zag_cookie.
 ||lwljmcved.bid^
 ||lwljmcved.bid^$important
 ||lwmwrsfzm.com^
+||lwmwrsfzm.com^$important
 ||lwmxykibvt.bid^
 ||lwmxykibvt.bid^$important
 ||lwnpbwds.bid^
@@ -42303,6 +42305,7 @@ _zag_cookie.
 ||nzkoreapost.com/banners/$domain=nzkoreapost.com
 ||nzkxmphfbqrfzs.com^
 ||nzlydrgumirn.com^
+||nzlydrgumirn.com^$important
 ||nzonscreen.com/track_video_item
 ||nzp0bz44c4.ru^
 ||nzpages.co.nz^*/track.js
@@ -54450,6 +54453,7 @@ _zag_cookie.
 ||tawdryson.com^
 ||tawiqiauikutwo.com^
 ||tawiqiauikutwo.com^$important
+||tawk.to^$important
 ||taxconsult.org.uk^
 ||tazemp3indir.com/Images/fbPaylas
 ||tazm9p7tso.trade^$third-party
@@ -59055,6 +59059,7 @@ _zag_cookie.
 ||vduswjwfcexa.com^$important
 ||vduyikffas.bid^
 ||vduyikffas.bid^$important
+||vdvaazkk.com^
 ||vdvmpzqmpsswu.bid^
 ||vdvmpzqmpsswu.bid^$important
 ||vdvylfkwjpvw.com^
@@ -62470,6 +62475,7 @@ _zag_cookie.
 ||xblmspointscodes.com^
 ||xblpointcodes.com^
 ||xbmnbfzoeug.com^$important
+||xbmyvkkksjlsek.com^
 ||xboamxtcnfcwyf.com^$important
 ||xbofirnnmzlprd.com^
 ||xbox.com/tags?
@@ -65985,4 +65991,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Saturday, 19 October 2019 10:40:18 PM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Sunday, 20 October 2019 4:40:20 AM AEST)
