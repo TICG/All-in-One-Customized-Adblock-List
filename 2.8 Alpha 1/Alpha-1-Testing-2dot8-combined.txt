@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Saturday, 19 October 2019 8:40:18 AM AEST
+! Last Modified: Saturday, 19 October 2019 12:40:19 PM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -176,6 +176,7 @@ $xmlhttprequest,domain=filmsfunda.com
 &refer=http$script
 &refererPageDetail=
 &trackingserver=
+&visitor=*&referrer=
 *$csp=default-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=101greatgoals.com|1337x.to|1channel.biz|1movies.is|4chan.org|allthetests.com|ancient-origins.net|androidcentral.com|antonymsfor.com|auroravid.to|biology-online.org|bitvid.sx|breakingisraelnews.com|britannica.com|btdb.in|btdb.to|champion.gg|cloudtime.to|colourlovers.com|connectedly.com|convert-me.com|convertcase.net|couch-tuner.at|couch-tuner.me|couchtuner.ac|couchtuner.us|crackberry.com|datpiff.com|demonoid.pw|destructoid.com|dietlast.com|dreamfilm.se|episodetube.com|episodetube.net|ewatchseries.to|fastpic.ru|filme-streamz.com|filmlinks4u.is|firstrowau.eu|firstrowus1.eu|fmovies.is|fmovies.se|fmovies.to|fmovies.world|fullmatchesandshows.com|getinmybelly.com|gofirstrow.eu|gogoanime.sh|gorillavid.in|hdfilme.tv|homerun.re|igvnews.co.uk|imagefap.com|imgadult.com|imgtaxi.com|imgwallet.com|imore.com|israelnationalnews.com|jerusalemonline.com|jewsnews.co.il|keepvid.com|kino-streamz.com|kiplinger.com|kissmanga.com|kshowonline.com|letmewatchthis.pl|letmewatchthis.video|livecricketz.org|lolcounter.com|ludokado.com|merriam-webster.com|movies4stream.com|movpod.in|mylivecricket.org|mywatchseries.to|newtvworld.com|noslocker.com|nosvideo.com|nowfeed2all.eu|nowvideo.li|nowvideo.sx|nowvideo.to|olympicstreams.me|onwatchseries.to|openload.co|pcgames-download.net|phonearena.com|phonesreview.co.uk|pocketnow.com|primewire.is|primewire.to|primewire.unblockall.xyz|psu.com|rinf.com|roadracerunner.com|serietvsubita.net|sgvideos.net|skidrowcrack.com|snowysmile.com|sockshare.net|sportspickle.com|streamazone.com|streamgaroo.com|strikeout.co|strikeout.me|strikeout.mobi|teamliquid.net|tetrisfriends.com|textsfromlastnight.com|thefreethoughtproject.com|thevideo.me|thewatchseries.ac|torrentz2.eu|trifind.com|tv-series.me|unblckd.org|veteranstoday.com|videotoolbox.com|vidtodo.com|vidup.me|vidwatch3.me|vipbox.bz|vipbox.is|vipbox.nu|vipbox.sx|vipbox.tv|vipboxeu.co|vipboxoc.co|vipboxtv.me|vipleague.ch|vipleague.co|vipleague.is|vipleague.me|vipleague.mobi|vipleague.se|vipleague.sx|vipleague.tv|vipleague.ws|vipstand.is|vivo.sx|vrheads.com|watchcartoononline.io|watchepisodes-tv.com|watchseries.sk|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|webfirstrow.eu|wholecloud.net|windowscentral.com|world4ufree.ws,badfilter
 *$csp=default-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=101greatgoals.com|openload.co
 *$csp=script-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=pornhub.com|xhamster.com|youporn.com,badfilter
@@ -1346,8 +1347,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||*$websocket,domain=agar.io|slither.io|mope.io|diep.io|narwhale.io|kartwars.io|blockor.io|splix.io|sharkz.io|meduzzza.io|wings.io|brutal.io|zlap.io|spinz.io|soccerball.io|rusher.io|duals.io|moomoo.io|bellum.io|vertix.io|sparkchess.com|powerline.io|snok.io|gota.io|protonmail.com|mailinator.com|roblox.com|
 @@||*/blank.gif*$image,domain=www.clariant.com
 @@||*advert*$domain=insite.clariant.com
-@@||*enm.com/*/*Ad$domain=androidworld.it
 @@||*enm.com/*/*ad$domain=androidworld.it
+@@||*enm.com/*/*Ad$domain=androidworld.it
 @@||/js/modernizr.js$script,first-party
 @@||1.bp.blogspot.com
 @@||1001tracklists.com^$generichide
@@ -3876,8 +3877,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||iklangratiz.com^$generichide
 @@||ilsole24ore.com^*/fingerprint2.min.js?
 @@||image.mahoyome.jp/images/$image,domain=mahoyome.jp
-@@||imagebam.com/js/site_ads.js
 @@||imagebam.com/JS/site_ads.js
+@@||imagebam.com/js/site_ads.js
 @@||imagecorn.com^$third-party
 @@||imagefap.com^*/ad_loader.js
 @@||imageg.net^$third-party
@@ -6599,6 +6600,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||wordsense.eu^$generichide
 @@||workflowy.com^*/hatching_twitter.png
 @@||workflowy.com^*/twitter_logo.png
+@@||workplace.com/common/referer_frame.php$subdocument,domain=workplace.com
 @@||worldnow.com^$third-party
 @@||worldtimebuddy.com/media/js/show_ads.js
 @@||wormixtest.ru/assets/scripts/ads.js
@@ -7003,8 +7005,8 @@ _linkedin_32.
 _linkedin_icon_
 _linkedin_social_
 _links/share.
-_loghuman=
 _logHuman=
+_loghuman=
 _logikamentecookielaw/
 _logimpressions.
 _loginlog.php?
@@ -8461,6 +8463,7 @@ _zag_cookie.
 ||9purdfe9xg.com^
 ||9purdfe9xg.com^$important
 ||9t8t.ejsqucee.com^
+||a.20minutes.fr^
 ||a.alimama.cn
 ||a.bf-ad.net/makabo/js_ng/adplayer/js/adplayer.min.js^
 ||a.bf-ad.net/pubjs/*/adengine.js^
@@ -12451,9 +12454,11 @@ _zag_cookie.
 ||baiaclwdpztd.com^$important
 ||baibako.tv/bg/
 ||baidu.com/billboard/pushlog/
+||baidu.com/click.gif?
 ||baidu.com/cpro/ui/c.js
 ||baidu.com/cpro/ui/f.js
 ||baidu.com/dalog/
+||baidu.com/dv.gif?
 ||baidu.com/ecom?
 ||baidu.com/h.js?
 ||baidu.com/hm.gif?
@@ -12464,6 +12469,7 @@ _zag_cookie.
 ||baidu.com/pixel?
 ||baidu.com/tb/pms/img/st.gif?
 ||baidu.com/x.js?
+||baidu.com^*/adlog?
 ||baidu.com^*/c.gif?
 ||baidu.com^*/s.gif?
 ||baidu.com^*/w.gif?
@@ -15562,6 +15568,7 @@ _zag_cookie.
 ||cdnstats-a.akamaihd.net^$third-party
 ||cdntrf.com^$third-party
 ||cdntrf.de^$third-party
+||cdnweb.aoscdn.com/hawkeye.js
 ||cdobneyuq.com^
 ||cdobneyuq.com^$important
 ||cdooewrzvec.com^
@@ -20311,8 +20318,8 @@ _zag_cookie.
 ||displaymarketplace.com^$third-party
 ||displaymate.com/cgi-bin/stat/
 ||disqus.com
-||disqus.com/api/*/listrelated.json?
 ||disqus.com/api/*/listRelated.json?
+||disqus.com/api/*/listrelated.json?
 ||disqus.com/api/ping
 ||disqus.com/api/ping?$domain=autobild.de
 ||disqus.com/api/ping?$third-party
@@ -21755,6 +21762,7 @@ _zag_cookie.
 ||easy-trade.su^
 ||easy-trade24.online^
 ||easy-tricks.info^
+||easytutoriel.com/wp-content/themes/easytutoriel-10-1/js/scripts.js
 ||easyziptab.com^$important
 ||eatingrightforlife.com^
 ||eatout.co.za^*/iab-
@@ -27411,6 +27419,7 @@ _zag_cookie.
 ||getpushmonkey.com^$third-party
 ||getresponse.com^$third-party
 ||getreview.pl^$third-party
+||getrewardful.com^$third-party
 ||getriotpointsforfree.com^
 ||getriotpointsfree.com^
 ||getriotpointsfree.discountfifacoins.com^
@@ -35914,7 +35923,6 @@ _zag_cookie.
 ||l.popin.cc^
 ||l.qq.com/lview^$domain=qq.com
 ||l.sharethis.com^
-||l.sharethis.com^$important
 ||l.yimg.com/zz/combo?pv*/promo-banner_$script
 ||l.yimg.com^*/img/badge-
 ||l00t.farm^
@@ -38872,6 +38880,7 @@ _zag_cookie.
 ||metrics.mzstatic.com^$empty
 ||metrics.n-tv.de^
 ||metrics.pacsun.com^$third-party
+||metrics.readme.io^
 ||metrics.scribblelive.com^
 ||metrics.seenon.com^
 ||metrics.sonymusicd2c.com^
@@ -51493,7 +51502,7 @@ _zag_cookie.
 ||slack.com/beacon/
 ||slack.com/clog/track/
 ||slack.com/clog/track/?
-||slacker.com/beacon/page/$image
+||slacker.com/beacon/
 ||slamdrop.com^
 ||slant.co/js/track.min.js
 ||slapintins.publicvm.com^$doc,domain=~ Warning displayed due to: Believed to contain the ZeuS trojan as of the 7th of July 2019.
@@ -53064,6 +53073,7 @@ _zag_cookie.
 ||stats.technopia.it^
 ||stats.teledyski.info^
 ||stats.thevideo.me^
+||stats.tipser.com^
 ||stats.topofblogs.com^
 ||stats.townnews.com^
 ||stats.tudou.com^
@@ -60573,6 +60583,7 @@ _zag_cookie.
 ||wdbddckjoguz.com^$important
 ||wddtrsuqmqhw.com^
 ||wddtrsuqmqhw.com^$important
+||wdfl.co^$third-party
 ||wdggtwegww.com^
 ||wdjbxcdriyjoeu.com^
 ||wdjbxcdriyjoeu.com^$important
@@ -60975,6 +60986,7 @@ _zag_cookie.
 ||wggnmbmedlmo.com^
 ||wggnmbmedlmo.com^$important
 ||wghmgbjpxmlxa.com^
+||wghmgbjpxmlxa.com^$important
 ||wghscopehrcafp.bid^
 ||wghscopehrcafp.bid^$important
 ||wgkurvzvd.com^$important
@@ -62028,6 +62040,7 @@ _zag_cookie.
 ||wvljugmqpfyd.com^
 ||wvljugmqpfyd.com^$important
 ||wvlveodsvygn.com^
+||wvlveodsvygn.com^$important
 ||wvmtyaqdp.bid^
 ||wvmtyaqdp.bid^$important
 ||wvnetworkmedia.org/min/?
@@ -65951,4 +65964,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Saturday, 19 October 2019 8:40:18 AM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Saturday, 19 October 2019 12:40:19 PM AEST)
