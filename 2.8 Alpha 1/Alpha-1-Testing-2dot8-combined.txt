@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Sunday, 20 October 2019 6:40:27 PM AEST
+! Last Modified: Sunday, 20 October 2019 8:40:18 PM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -3246,6 +3246,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||geni.us/snippet.min.js$script,domain=pcmonitors.info
 @@||gentecheesisterealmente.com^$generichide
 @@||geo.de^$generichide
+@@||geo.kaloo.ga/json/$script,domain=tagesspiegel.de
 @@||geo.kaloo.ga/json/?$script,domain=telesurtv.net
 @@||geo.query.yahoo.com^$xmlhttprequest,domain=m.flickr.com
 @@||geocaching.su/images/ctypes/icons/googlemap/$image,~third-party
@@ -3878,8 +3879,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||iklangratiz.com^$generichide
 @@||ilsole24ore.com^*/fingerprint2.min.js?
 @@||image.mahoyome.jp/images/$image,domain=mahoyome.jp
-@@||imagebam.com/JS/site_ads.js
 @@||imagebam.com/js/site_ads.js
+@@||imagebam.com/JS/site_ads.js
 @@||imagecorn.com^$third-party
 @@||imagefap.com^*/ad_loader.js
 @@||imageg.net^$third-party
@@ -18779,6 +18780,7 @@ _zag_cookie.
 ||ctpjfacao.com^
 ||ctplyvuuzdcv.com^
 ||ctplyvuuzdcv.com^$important
+||ctqoduhdji.com^
 ||ctr.nmg.de^$third-party
 ||ctr-iwb.nmg.de^
 ||ctr-opc.nmg.de^
@@ -66003,4 +66005,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Sunday, 20 October 2019 6:40:27 PM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Sunday, 20 October 2019 8:40:18 PM AEST)
