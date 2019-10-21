@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Monday, 21 October 2019 6:40:19 PM AEST
+! Last Modified: Tuesday, 22 October 2019 2:40:19 AM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -1145,6 +1145,7 @@ $xmlhttprequest,domain=filmsfunda.com
 ?wpgb_public_action=*&referrer=
 ?zoneid=*_bannerid=$document
 @@$generichide,~third-party,domain=myl.li|mylink.how|mylink.love|mylink.me.uk|mylink.st
+@@$generichide,domain=cc-fan.tv|cn-fan.tv|fox-fan.tv|nf-fan.tv
 @@&*=$script,domain=stern.de
 @@&*=$script,domain=www.golem.de
 @@&nats=$domain=hersexdebut.com
@@ -1347,8 +1348,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||*$websocket,domain=agar.io|slither.io|mope.io|diep.io|narwhale.io|kartwars.io|blockor.io|splix.io|sharkz.io|meduzzza.io|wings.io|brutal.io|zlap.io|spinz.io|soccerball.io|rusher.io|duals.io|moomoo.io|bellum.io|vertix.io|sparkchess.com|powerline.io|snok.io|gota.io|protonmail.com|mailinator.com|roblox.com|
 @@||*/blank.gif*$image,domain=www.clariant.com
 @@||*advert*$domain=insite.clariant.com
-@@||*enm.com/*/*Ad$domain=androidworld.it
 @@||*enm.com/*/*ad$domain=androidworld.it
+@@||*enm.com/*/*Ad$domain=androidworld.it
 @@||/js/modernizr.js$script,first-party
 @@||1.bp.blogspot.com
 @@||1001tracklists.com^$generichide
@@ -5250,7 +5251,6 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||randomhouse.com/book/css/certona.css
 @@||rantlifestyle.com/wp-content/*facebook$image
 @@||rantlifestyle.com/wp-content/*twitter$image
-@@||rapidvideo.com/e^$third-party,badfilter
 @@||rapidvideo.com/js/ads.php
 @@||rapidvideo.com/js/jquery.limit-1.2.source.js$script
 @@||rapidvideo.com/js/jquery.min.js$script,1p
@@ -7010,8 +7010,8 @@ _linkedin_32.
 _linkedin_icon_
 _linkedin_social_
 _links/share.
-_loghuman=
 _logHuman=
+_loghuman=
 _logikamentecookielaw/
 _logimpressions.
 _loginlog.php?
@@ -8441,7 +8441,7 @@ _zag_cookie.
 ||9a505e446b3cbc49ba0.com^$important
 ||9amq5z4y1y.com^
 ||9amq5z4y1y.com^$important
-||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.9anime.ru *.9anime.to *.akacdn.ru *.blogspot.com *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com *.rapidvideo.com rapidvid.to *.playercdn.net openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to streamango.com *.fruithosted.net *.mp4upload.com prettyfast.to;upgrade-insecure-requests
+||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.9anime.ru *.9anime.to *.akacdn.ru *.blogspot.com *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to streamango.com *.fruithosted.net *.mp4upload.com prettyfast.to;upgrade-insecure-requests
 ||9anime.*^$csp=frame-src 'self' *.rapidvideo.com mcloud.to openload.co disqus.com
 ||9anime.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jwpcdn.com *.gstatic.com disqus.com *.disqus.com *.disquscdn.com data:
 ||9anime.*^$first-party,script,badfilter
@@ -9955,7 +9955,7 @@ _zag_cookie.
 ||ahmedshow.com^
 ||ahmkfi.best.volyn.ua^
 ||ahneiwkpsnxign.com^
-||ahost.bulbagarden.net^
+||ahost.bulbagarden.net^$3p
 ||ahref.tech^$important
 ||ahstrelgnh.com^
 ||ahstrelgnh.com^$important
@@ -12994,7 +12994,7 @@ _zag_cookie.
 ||besplatnos.ru^
 ||besstahete.info^
 ||besstahete.info^$third-party
-||best.momzr.com^$1p
+||best.momzr.com^$1p,domain=momzr.com
 ||best2019games.com^$important
 ||best2019-games-web1.com^$important
 ||bestadbid.com^
@@ -19526,7 +19526,7 @@ _zag_cookie.
 ||data.imakenews.com^$third-party
 ||data.marketgid.com^$third-party
 ||data.mic.com^
-||data.microsoft.com^$important
+||data.microsoft.com^$important,3p
 ||data.minute.ly^
 ||data.mob.com^$empty
 ||data.ninemsn.com.au/*GetAdCalls
@@ -20333,8 +20333,8 @@ _zag_cookie.
 ||displaymarketplace.com^$third-party
 ||displaymate.com/cgi-bin/stat/
 ||disqus.com
-||disqus.com/api/*/listRelated.json?
 ||disqus.com/api/*/listrelated.json?
+||disqus.com/api/*/listRelated.json?
 ||disqus.com/api/ping
 ||disqus.com/api/ping?$domain=autobild.de
 ||disqus.com/api/ping?$third-party
@@ -24366,7 +24366,7 @@ _zag_cookie.
 ||ffkwprrdmyaj.bid^$important
 ||ffmhgdnkdcs.com^
 ||ffmhgdnkdcs.com^$important
-||ffmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com rapidvid.to *.rapidvideo.com *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
+||ffmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
 ||ffmovies.to/ajax/film/update-views
 ||ffoifngclwfuey.com^
 ||ffoifngclwfuey.com^$important
@@ -25060,7 +25060,7 @@ _zag_cookie.
 ||f-mobilevideo.blogspot.com^
 ||fmoihhvbehopc.com^
 ||fmoihhvbehopc.com^$important
-||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: rapidvid.to *.rapidvideo.com *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream oload.biz *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to *.bp.blogspot.com;upgrade-insecure-requests
+||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream oload.biz *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to *.bp.blogspot.com;upgrade-insecure-requests
 ||fmovies.cab/addons/img/merry_christmas
 ||fmovies.is^$first-party,popup,badfilter
 ||fmovies.is^$xmlhttprequest,domain=fmovies.is,badfilter
@@ -33047,6 +33047,7 @@ _zag_cookie.
 ||itrackerpro.com^$third-party
 ||itracking.fccinteractive.com^
 ||itracmediav4.com^$third-party
+||itrustzone.site^$third-party
 ||its53new.rr.nu^
 ||itshd.com^
 ||itsme247.com^*/ga.js
@@ -35103,7 +35104,7 @@ _zag_cookie.
 ||kilometrix.de^$third-party
 ||kimate.com*$all
 ||kimcartoon.me^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.zencdn.net *.gstatic.com www.google.com disqus.com *.disqus.com *.disquscdn.com data: blob:;frame-src www.google.com *.rapidvideo.com streamango.com openload.co disqus.com
-||kimcartoon.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.zencdn.net *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co *.oloadcdn.net streamango.com code.jquery.com *.fruithosted.net i.imgur.com *.bp.blogspot.com *.googleusercontent.com *.googlevideo.com upload.wikimedia.org *.fbcdn.net *.apps.fbsbx.com *.luxubu.review
+||kimcartoon.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.zencdn.net openload.co *.oloadcdn.net streamango.com code.jquery.com *.fruithosted.net i.imgur.com *.bp.blogspot.com *.googleusercontent.com *.googlevideo.com upload.wikimedia.org *.fbcdn.net *.apps.fbsbx.com *.luxubu.review
 ||kimcartoon.to^$csp=script-src 'self' * 'unsafe-inline',badfilter
 ||kimexa.com*$all
 ||kimhaynesphoto.com^
@@ -35155,13 +35156,13 @@ _zag_cookie.
 ||kirmar.ru^
 ||kisker.czisza.hu^
 ||kissanime.ru/xyz/check.aspx^
-||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.cloud *.oloadcdn.net streamango.com *.fruithosted.net *.fbcdn.net *.mp4upload.com *.rapidvid.to *.novelplanet.me;media-src *;upgrade-insecure-requests
+||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com openload.co oload.cloud *.oloadcdn.net streamango.com *.fruithosted.net *.fbcdn.net *.mp4upload.com *.novelplanet.me;media-src *;upgrade-insecure-requests
 ||kissanime.ru^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' disqus.com *.disqus.com *.disquscdn.com data:;frame-src *.rapidvideo.com streamango.com openload.co disqus.com
 ||kissasian.ch/*.aspx
 ||kissasian.ch^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' disqus.com *.disqus.com *.disquscdn.com data:;frame-src *.rapidvideo.com openload.co disqus.com
 ||kisshentai.net/*/c-hive$important
 ||kisshentai.net/*betterpop$important
-||kisshentai.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.stream *.oloadcdn.net streamcherry.com *.fruithosted.net cdn.myanimelist.net
+||kisshentai.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com openload.co oload.stream *.oloadcdn.net streamcherry.com *.fruithosted.net cdn.myanimelist.net
 ||kisshentai.net^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' disqus.com *.disqus.com *.disquscdn.com data:;frame-src 'self' *.rapidvideo.com openload.co streamcherry.com disqus.com
 ||kissmanga.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' disqus.com *.disqus.com *.disquscdn.com data:;frame-src disqus.com
 ||kissmanga.info/*.gif?gid=
@@ -35885,6 +35886,7 @@ _zag_cookie.
 ||kyfekvgsyraz.bid^$important
 ||kygozmlrr.com^
 ||kygozmlrr.com^$important
+||kygssorgg.com^
 ||kyhkyreweusn.com^
 ||kyhkyreweusn.com^$important
 ||kyieflmhiekvrr.bid^
@@ -39687,7 +39689,6 @@ _zag_cookie.
 ||momently.com^$third-party
 ||momtastic.com/libraries/pebblebed/js/pb.track.js
 ||momzr.com/*.php$1p
-||momzr.com/related_videos_html/$1p
 ||monditomasks.co^
 ||mondodeitrucchi.net^
 ||moneone.ga^$third-party
@@ -45038,7 +45039,7 @@ _zag_cookie.
 ||platform.twitter.com/js/button.$third-party
 ||platform.twitter.com/js/timeline$domain=anbariloche.com.ar
 ||platform.twitter.com/oct.js$third-party
-||platform.twitter.com/widgets.js$domain=real-vin.com|womanel.com.ua|tribundergi.com|inforesist.org|cj3z.com|orbita.dn.ua|ppt.ru|obltv.ru|anilibria.tv|eurolab.ua|anidub.com|losst.ru|cwbaltimore.com|fox38corpuschristi.com|fox47.com|foxkansas.com|foxrichmond.com|kbsi23.com|kdsm17.com|raleighcw.com|star64.tv|wcti12.com|wpgh53.com|wtto21.com|wutv29.com|ellegirl.ru|mforos.com|news-journalonline.com|insaatnoktasi.com|pctip.ru|nk.org.ua|gercekizmir.com|xn----8sbcm1bmcar0m.xn--p1ai|altyazi.net|proglang.su|filmakinesi.net|elazigyenihaber.com|noticierodigital.com|airkule.com|manisamanset.gen.tr|filmold.com|dizilara.org|sanatatak.com|simdifilmizle.com|gidavitrini.com.tr|hizlifilmizlehd.com|belgeselciyiz.com|dizivay.com|mywebtimes.com|bedava-film.com|tomiks33.ru|fontanka.ru|belsat.eu|seirsanduk.us|queenbet4.tv|torrentbe.net|daemon-hentai.com|gazetaby.com|rmj.ru|muchohentai.com|magazinekibi.com
+||platform.twitter.com/widgets.js$domain=real-vin.com|womanel.com.ua|tribundergi.com|inforesist.org|cj3z.com|orbita.dn.ua|ppt.ru|obltv.ru|anilibria.tv|eurolab.ua|anidub.com|losst.ru|cwbaltimore.com|fox38corpuschristi.com|fox47.com|foxkansas.com|foxrichmond.com|kbsi23.com|kdsm17.com|raleighcw.com|star64.tv|wcti12.com|wpgh53.com|wtto21.com|wutv29.com|ellegirl.ru|mforos.com|news-journalonline.com|insaatnoktasi.com|pctip.ru|nk.org.ua|gercekizmir.com|xn----8sbcm1bmcar0m.xn--p1ai|altyazi.net|proglang.su|filmakinesi.net|elazigyenihaber.com|noticierodigital.com|airkule.com|manisamanset.gen.tr|filmold.com|dizilara.org|sanatatak.com|simdifilmizle.com|gidavitrini.com.tr|hizlifilmizlehd.com|belgeselciyiz.com|dizivay.com|mywebtimes.com|bedava-film.com|tomiks33.ru|fontanka.ru|belsat.eu|seirsanduk.us|queenbet4.tv|torrentbe.net|daemon-hentai.com|gazetaby.com|rmj.ru|muchohentai.com|magazinekibi.com|egeyonhaber.com
 ||platform.twitter.com/widgets/follow_button$subdocument
 ||platform.twitter.com/widgets/follow_button$third-party
 ||platform.twitter.com/widgets/tweet_button$subdocument
@@ -46503,7 +46504,7 @@ _zag_cookie.
 ||putlockers.as^
 ||putlockers.cz^
 ||putlockers.me^
-||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bp.blogspot.com rapidvid.to *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
+||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bp.blogspot.com *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
 ||putpat.tv/tracking?
 ||putrr11.com^
 ||putrr11.com^$important
@@ -47190,6 +47191,7 @@ _zag_cookie.
 ||qmmdvzsebi.com^$important
 ||qmotkiltrim.com^
 ||qmotkiltrim.com^$important
+||qmotmcwz.com^
 ||qmouzhzz.com^
 ||qmxpttxjv.com^
 ||qmzwcrordyc.com^
@@ -47900,10 +47902,7 @@ _zag_cookie.
 ||rapidstats.net^$third-party
 ||rapidstockprofit.org^
 ||rapidtrk.net^$third-party
-||rapidvid.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: static.rapidvideo.com *.playercdn.net cdnjs.cloudflare.com;upgrade-insecure-requests
-||rapidvideo.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.rapidvideo.com *.playercdn.net;upgrade-insecure-requests
 ||rapidvideo.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
-||rapidvideo.com^$script,badfilter
 ||rapistory.info^
 ||rapistory.info^$important
 ||rapru.info^
@@ -51942,7 +51941,7 @@ _zag_cookie.
 ||sokanffuyinr.com^$important
 ||soko.ai^$third-party
 ||sokrati.com^$third-party
-||solarmoviex.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bp.blogspot.com rapidvid.to *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
+||solarmoviex.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bp.blogspot.com *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
 ||soldegratuit.com^
 ||solhkhabar.ir/t5t/*
 ||solic.info*
@@ -52874,6 +52873,7 @@ _zag_cookie.
 ||static.shopback.net/tags/plugins/shoppush.js
 ||static.small.chat/messenger.js
 ||static.smi2.net^$third-party
+||static.spankbang.com/static_desktop/gen/*-ai-with-privacy.js
 ||static.s-sfr.fr/stats/sbtF.js$script
 ||static.stylight.net/js_external/trackjs.*.js
 ||static.talparadio.nl/js/cookiecheck.js$script
@@ -64359,7 +64359,7 @@ _zag_cookie.
 ||youtube-nocookie.com/gen_204?
 ||youtube-nocookie.com/ptracking?
 ||youtube-nocookie.com/robots.txt?
-||youtube-nocookie.com^$all
+||youtube-nocookie.com^
 ||youtuber.com^
 ||youtuybe.com^
 ||youutube.gq^$important
@@ -64682,6 +64682,7 @@ _zag_cookie.
 ||yxcwyiipjsksc.bid^
 ||yxcwyiipjsksc.bid^$important
 ||yxdown.com/count.js
+||yxdwsuppvt.com^
 ||yxfkdvkh.com^
 ||yxfkdvkh.com^$important
 ||yxghdgwi.bid^
@@ -66014,4 +66015,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Monday, 21 October 2019 6:40:19 PM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Tuesday, 22 October 2019 2:40:19 AM AEST)
