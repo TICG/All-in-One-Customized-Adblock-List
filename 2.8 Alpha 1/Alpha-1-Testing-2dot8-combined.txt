@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Tuesday, 22 October 2019 6:40:19 AM AEST
+! Last Modified: Tuesday, 22 October 2019 8:40:18 AM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -2666,7 +2666,6 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||diariodemallorca.es/elementosWeb/js/ads.js
 @@||diariodemallorca.es/servicios/ads/dfp.js
 @@||dict.rambler.ru/fcgi-bin/$xmlhttprequest,domain=rambler.ru
-@@||digg.com^$third-party
 @@||diginetica.net^$domain=reg.megabitcomp.ru
 @@||digitalgov.gov/Universal-Federated-Analytics-Min.js?$script,domain=travel.state.gov
 @@||digits.com^*/sdk.js$domain=openhub.net
@@ -5657,7 +5656,6 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||snapchat.com/static/js/google-analytics.js
 @@||snapengage.com^$third-party
 @@||sndcdn.com/images/connect_social.png$domain=soundcloud.com
-@@||sndcdn.com^$third-party
 @@||sneakystamp.com^$xmlhttprequest,domain=androidcentral.com
 @@||soccer*.com/sites/all/themes/newtheme/adframe.js
 @@||soccer.ru/sites/all/themes/mytheme/advert.js
@@ -5679,7 +5677,6 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||sosh.fr^*/wtbase.js
 @@||sosh.fr^*/wtinit.js
 @@||sostariffe.it^$generichide
-@@||soundcloud.com^$third-party
 @@||soundonsound.com^$generichide
 @@||sourcepoint.mgr.consensu.org^$domain=macworld.com
 @@||southwest.com^*/mbox.js
@@ -7010,8 +7007,8 @@ _linkedin_32.
 _linkedin_icon_
 _linkedin_social_
 _links/share.
-_loghuman=
 _logHuman=
+_loghuman=
 _logikamentecookielaw/
 _logimpressions.
 _loginlog.php?
@@ -20334,8 +20331,8 @@ _zag_cookie.
 ||displaymarketplace.com^$third-party
 ||displaymate.com/cgi-bin/stat/
 ||disqus.com
-||disqus.com/api/*/listRelated.json?
 ||disqus.com/api/*/listrelated.json?
+||disqus.com/api/*/listRelated.json?
 ||disqus.com/api/ping
 ||disqus.com/api/ping?$domain=autobild.de
 ||disqus.com/api/ping?$third-party
@@ -66019,4 +66016,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Tuesday, 22 October 2019 6:40:19 AM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Tuesday, 22 October 2019 8:40:18 AM AEST)
