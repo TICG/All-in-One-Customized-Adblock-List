@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Tuesday, 22 October 2019 6:40:19 PM AEST
+! Last Modified: Tuesday, 22 October 2019 8:40:20 PM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -1348,8 +1348,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||*$websocket,domain=agar.io|slither.io|mope.io|diep.io|narwhale.io|kartwars.io|blockor.io|splix.io|sharkz.io|meduzzza.io|wings.io|brutal.io|zlap.io|spinz.io|soccerball.io|rusher.io|duals.io|moomoo.io|bellum.io|vertix.io|sparkchess.com|powerline.io|snok.io|gota.io|protonmail.com|mailinator.com|roblox.com|
 @@||*/blank.gif*$image,domain=www.clariant.com
 @@||*advert*$domain=insite.clariant.com
-@@||*enm.com/*/*ad$domain=androidworld.it
 @@||*enm.com/*/*Ad$domain=androidworld.it
+@@||*enm.com/*/*ad$domain=androidworld.it
 @@||/js/modernizr.js$script,first-party
 @@||1.bp.blogspot.com
 @@||1001tracklists.com^$generichide
@@ -3880,8 +3880,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||iklangratiz.com^$generichide
 @@||ilsole24ore.com^*/fingerprint2.min.js?
 @@||image.mahoyome.jp/images/$image,domain=mahoyome.jp
-@@||imagebam.com/js/site_ads.js
 @@||imagebam.com/JS/site_ads.js
+@@||imagebam.com/js/site_ads.js
 @@||imagecorn.com^$third-party
 @@||imagefap.com^*/ad_loader.js
 @@||imageg.net^$third-party
@@ -7009,8 +7009,8 @@ _linkedin_32.
 _linkedin_icon_
 _linkedin_social_
 _links/share.
-_logHuman=
 _loghuman=
+_logHuman=
 _logikamentecookielaw/
 _logimpressions.
 _loginlog.php?
@@ -8418,6 +8418,7 @@ _zag_cookie.
 ||95p5qep4aq.com^$important
 ||96n5r5va.top^
 ||96n5r5va.top^$important
+||97d73lsi.com^$important
 ||97f37f3df0b9.com^
 ||97f37f3df0b9.com^$important
 ||97go.biz^
@@ -13967,6 +13968,7 @@ _zag_cookie.
 ||bnserving.com*$script
 ||bnserving.com^
 ||bnserving.com^$important
+||bnsjb1ab1e.com^$important
 ||bnsowzvglhu.com^
 ||bnstnhto.com^
 ||bnstnhto.com^$important
@@ -14858,6 +14860,7 @@ _zag_cookie.
 ||c0.froala.com/i?
 ||c00.adobe.com^$empty
 ||c0011.boursorama.com^
+||c02o3mpych.com^$important
 ||c0594.com*
 ||c05c3c084e7edd.com^$important
 ||c0f3235774d3ee.com^
@@ -36943,6 +36946,7 @@ _zag_cookie.
 ||lkyuoybczr.com^
 ||lkzvhtetshbu.com^
 ||lkzvhtetshbu.com^$important
+||llahnch259.com$important
 ||llantasdelpacifico.cl^
 ||llbevorurncfcc.bid^
 ||llbevorurncfcc.bid^$important
@@ -40830,6 +40834,7 @@ _zag_cookie.
 ||naturalnews.com/getviews2.
 ||naturalnews.com^$popup,third-party
 ||naturaltracking.com^$third-party
+||nature.com/platform/track/$image
 ||nature.com^*/marker-file.nocache?
 ||naucmjbzmymdzr.bid^
 ||naucmjbzmymdzr.bid^$important
@@ -66034,4 +66039,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Tuesday, 22 October 2019 6:40:19 PM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Tuesday, 22 October 2019 8:40:20 PM AEST)
