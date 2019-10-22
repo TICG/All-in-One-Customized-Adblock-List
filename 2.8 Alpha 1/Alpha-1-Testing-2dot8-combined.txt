@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Wednesday, 23 October 2019 6:40:21 AM AEST
+! Last Modified: Wednesday, 23 October 2019 8:40:19 AM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -33739,6 +33739,7 @@ _zag_cookie.
 ||jheplryxvzvx.com^$important
 ||jhewbownkjobl.bid^
 ||jhewbownkjobl.bid^$important
+||jhhlhneavuo.com^
 ||jhijojlatyvri.com^
 ||jhijojlatyvri.com^$important
 ||jhmmbrfsqm.com^
@@ -66044,4 +66045,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Wednesday, 23 October 2019 6:40:21 AM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Wednesday, 23 October 2019 8:40:19 AM AEST)
