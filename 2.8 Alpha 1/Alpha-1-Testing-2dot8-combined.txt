@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Tuesday, 22 October 2019 4:40:19 PM AEST
+! Last Modified: Tuesday, 22 October 2019 6:40:19 PM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -1348,8 +1348,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||*$websocket,domain=agar.io|slither.io|mope.io|diep.io|narwhale.io|kartwars.io|blockor.io|splix.io|sharkz.io|meduzzza.io|wings.io|brutal.io|zlap.io|spinz.io|soccerball.io|rusher.io|duals.io|moomoo.io|bellum.io|vertix.io|sparkchess.com|powerline.io|snok.io|gota.io|protonmail.com|mailinator.com|roblox.com|
 @@||*/blank.gif*$image,domain=www.clariant.com
 @@||*advert*$domain=insite.clariant.com
-@@||*enm.com/*/*Ad$domain=androidworld.it
 @@||*enm.com/*/*ad$domain=androidworld.it
+@@||*enm.com/*/*Ad$domain=androidworld.it
 @@||/js/modernizr.js$script,first-party
 @@||1.bp.blogspot.com
 @@||1001tracklists.com^$generichide
@@ -3880,8 +3880,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||iklangratiz.com^$generichide
 @@||ilsole24ore.com^*/fingerprint2.min.js?
 @@||image.mahoyome.jp/images/$image,domain=mahoyome.jp
-@@||imagebam.com/JS/site_ads.js
 @@||imagebam.com/js/site_ads.js
+@@||imagebam.com/JS/site_ads.js
 @@||imagecorn.com^$third-party
 @@||imagefap.com^*/ad_loader.js
 @@||imageg.net^$third-party
@@ -8441,7 +8441,7 @@ _zag_cookie.
 ||9a505e446b3cbc49ba0.com^$important
 ||9amq5z4y1y.com^
 ||9amq5z4y1y.com^$important
-||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.9anime.ru *.9anime.to *.akacdn.ru *.blogspot.com *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to streamango.com *.fruithosted.net *.mp4upload.com prettyfast.to;upgrade-insecure-requests
+||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.9anime.ru *.9anime.to *.akacdn.ru *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.monster *.oloadcdn.net mcloud.to *.mcloud.to streamango.com *.fruithosted.net *.mp4upload.com prettyfast.to cdnjs.cloudflare.com verystream.com *.verystream.net;upgrade-insecure-requests
 ||9anime.*^$csp=frame-src 'self' *.rapidvideo.com mcloud.to openload.co disqus.com
 ||9anime.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jwpcdn.com *.gstatic.com disqus.com *.disqus.com *.disquscdn.com data:
 ||9anime.*^$first-party,script,badfilter
@@ -9373,6 +9373,7 @@ _zag_cookie.
 ||adrunnr.com*
 ||adrunnr.com^$important
 ||ads-*
+||ads*-adnow.com^$important
 ||ads.*
 ||ads.*.*^
 ||ads.acrosspf.com/adinfo.ad^
@@ -11468,7 +11469,6 @@ _zag_cookie.
 ||appprices.com^
 ||approp.pro^
 ||approvedhacks.com^
-||apps.fbsbx.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net *.cdninstagram.com ajax.googleapis.com *.satella.tv hanime.tv *.hanime.tv
 ||apps.poln.co^$third-party
 ||appscracker.com^
 ||appsdroid.org^
@@ -16839,6 +16839,7 @@ _zag_cookie.
 ||cncpa.net^
 ||cncqycrckl.com^
 ||cndgrpfuuijg.com^
+||cndgrpfuuijg.com^$important
 ||cndhit.xyz^$third-party
 ||cnet.com/akam/*/pixel_$domain=cnet.com
 ||cnet.com/rest/v1.0/tweets/
@@ -20336,8 +20337,8 @@ _zag_cookie.
 ||displaymarketplace.com^$third-party
 ||displaymate.com/cgi-bin/stat/
 ||disqus.com
-||disqus.com/api/*/listrelated.json?
 ||disqus.com/api/*/listRelated.json?
+||disqus.com/api/*/listrelated.json?
 ||disqus.com/api/ping
 ||disqus.com/api/ping?$domain=autobild.de
 ||disqus.com/api/ping?$third-party
@@ -21391,6 +21392,7 @@ _zag_cookie.
 ||duidsdvdbecg.bid^
 ||duidsdvdbecg.bid^$important
 ||dujbubzvrdw.com^
+||dujbubzvrdw.com^$important
 ||dukecms.com/deals2/$third-party
 ||duklamznlrn.com^
 ||duklamznlrn.com^$important
@@ -24369,7 +24371,7 @@ _zag_cookie.
 ||ffkwprrdmyaj.bid^$important
 ||ffmhgdnkdcs.com^
 ||ffmhgdnkdcs.com^$important
-||ffmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
+||ffmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to verystream.com *.verystream.net;upgrade-insecure-requests
 ||ffmovies.to/ajax/film/update-views
 ||ffoifngclwfuey.com^
 ||ffoifngclwfuey.com^$important
@@ -25063,7 +25065,7 @@ _zag_cookie.
 ||f-mobilevideo.blogspot.com^
 ||fmoihhvbehopc.com^
 ||fmoihhvbehopc.com^$important
-||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream oload.biz *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to *.bp.blogspot.com;upgrade-insecure-requests
+||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.monster *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to verystream.com *.verystream.net;upgrade-insecure-requests
 ||fmovies.cab/addons/img/merry_christmas
 ||fmovies.is^$first-party,popup,badfilter
 ||fmovies.is^$xmlhttprequest,domain=fmovies.is,badfilter
@@ -37195,6 +37197,7 @@ _zag_cookie.
 ||logger.kataweb.it^
 ||logger.logidea.info^
 ||logger.nerdwallet.com^
+||logger.pw^$important
 ||logger.pw^$third-party
 ||logger.rm.uol.com.br^
 ||logger.snackly.co^
@@ -42739,6 +42742,7 @@ _zag_cookie.
 ||ohszjtbehoo.com^
 ||ohtrial.press^
 ||ohwlwlus.com^
+||ohzczsyjadw.com^
 ||oiahzjhwpsokt.com^
 ||oiahzjhwpsokt.com^$important
 ||oicbwkyjsyxjgj.bid^
@@ -46510,7 +46514,7 @@ _zag_cookie.
 ||putlockers.as^
 ||putlockers.cz^
 ||putlockers.me^
-||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bp.blogspot.com *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
+||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.monster *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to verystream.com *.verystream.net;upgrade-insecure-requests
 ||putpat.tv/tracking?
 ||putrr11.com^
 ||putrr11.com^$important
@@ -51660,6 +51664,7 @@ _zag_cookie.
 ||smartsupportconnect.com^
 ||smartsupp-widget-161959.c.cdn77.org/build/smartchat-2.3.20.min.js
 ||smarttorich.com^
+||smart-traffik.com^$third-party
 ||smarttvlive.com^
 ||smartupload.org^
 ||smartwebads.com^$important
@@ -51949,7 +51954,7 @@ _zag_cookie.
 ||sokanffuyinr.com^$important
 ||soko.ai^$third-party
 ||sokrati.com^$third-party
-||solarmoviex.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bp.blogspot.com *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
+||solarmoviex.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to verystream.com *.verystream.net;upgrade-insecure-requests
 ||soldegratuit.com^
 ||solhkhabar.ir/t5t/*
 ||solic.info*
@@ -53934,6 +53939,7 @@ _zag_cookie.
 ||svrsqqtj.com^$important
 ||svtrd.com^$third-party
 ||svwsjxptbsvqo.com^
+||svwsjxptbsvqo.com^$important
 ||sw.wpu.sh/script/main.js$domain=hclips.com
 ||swahobrjdddri.com^
 ||swahobrjdddri.com^$important
@@ -66028,4 +66034,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Tuesday, 22 October 2019 4:40:19 PM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Tuesday, 22 October 2019 6:40:19 PM AEST)
