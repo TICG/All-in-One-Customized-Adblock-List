@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Tuesday, 22 October 2019 10:40:18 PM AEST
+! Last Modified: Wednesday, 23 October 2019 4:40:18 AM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -1347,8 +1347,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||*$websocket,domain=agar.io|slither.io|mope.io|diep.io|narwhale.io|kartwars.io|blockor.io|splix.io|sharkz.io|meduzzza.io|wings.io|brutal.io|zlap.io|spinz.io|soccerball.io|rusher.io|duals.io|moomoo.io|bellum.io|vertix.io|sparkchess.com|powerline.io|snok.io|gota.io|protonmail.com|mailinator.com|roblox.com|
 @@||*/blank.gif*$image,domain=www.clariant.com
 @@||*advert*$domain=insite.clariant.com
-@@||*enm.com/*/*ad$domain=androidworld.it
 @@||*enm.com/*/*Ad$domain=androidworld.it
+@@||*enm.com/*/*ad$domain=androidworld.it
 @@||/js/modernizr.js$script,first-party
 @@||1.bp.blogspot.com
 @@||1001tracklists.com^$generichide
@@ -1460,6 +1460,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||addthis.com/js/*/addthis_widget.js$domain=mutfaksirlari.com
 @@||addthis.com/js/*/addthis_widget.js$domain=politico.com
 @@||addthis.com/js/*/addthis_widget.js$domain=restorationhardware.com
+@@||addthis.com/js/*/addthis_widget.js$domain=ripsave.com
 @@||addthis.com/js/*/addthis_widget.js$domain=samsonite.com.my
 @@||addthis.com/js/*/addthis_widget.js$domain=wiggle.com.au|wiggle.ru
 @@||addthis.com/js/*/addthis_widget.js^$domain=corepoweryoga.com
@@ -1582,7 +1583,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/social_$image,domain=ted.com
 @@||akamaihd.net/rsrc.php/$domain=facebook.com
 @@||akamaihd.net/worldwide_analytics/$script,domain=ubi.com|ubisoft.com
-@@||akamaihd.net/worldwide_analytics/tagcommander/UbisoftConnect^$domain=account.ubisoft.com
+@@||akamaihd.net/worldwide_analytics/tagcommander/Ubisoft$domain=account.ubisoft.com|connect.ubisoft.com
 @@||akamaihd.net^$third-party
 @@||akamaihd.net^$xmlhttprequest,domain=history.com
 @@||akamaihd.net^*/ad*.js$script
@@ -1606,7 +1607,6 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||alfred.camera/webapp/adsbygoogle.js
 @@||alicdn.com/js/*/cookie-info.js$script
 @@||alicdn.com/js/*/ws-cookie.js$script
-@@||alicdn.com^$third-party
 @@||alicdn.com^*/class.js*/base.js*/widget.js$script
 @@||alicdn.com^*/click_stat/
 @@||alienwarearena.com/bundles/spoutlet/js/SocialShare.min.js
@@ -1787,6 +1787,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||api.perfops.net^$script,xmlhttprequest,domain=dnsperf.com
 @@||api.razorpay.com^$third-party
 @@||api.solvemedia.com^$script,third-party,domain=uploadrocket.net
+@@||api.soundcloud.com^$third-party
 @@||api.twisto.cz^$third-party
 @@||api.twisto.pl^$third-party
 @@||api.vidaxl.com^*/trackingservice/customerportal/*?$xmlhttprequest,domain=tracking.vidaxl.com
@@ -2227,7 +2228,9 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||cdn.segment.com/analytics.js^$domain=creativemarket.com
 @@||cdn.segment.com/analytics.js^$domain=crunchyroll.com
 @@||cdn.segment.com/analytics.js^$domain=freshly.com
+@@||cdn.segmentify.com/*/segmentify.css$domain=migros.com.tr
 @@||cdn.segmentify.com/*/segmentify.js$domain=gittigidiyor.com
+@@||cdn.segmentify.com/*/segmentify.js$domain=migros.com.tr
 @@||cdn.segmentify.com/account-js/segmentify_flo.js$domain=flo.com.tr
 @@||cdn.sendpulse.com/js/push/*.js$domain=surfingbird.ru
 @@||cdn.sstatic.net^$third-party
@@ -3449,7 +3452,6 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||google-analytics.com/analytics.js$domain=reuters.com
 @@||google-analytics.com/analytics.js$domain=rewasd.com
 @@||google-analytics.com/analytics.js$domain=rt.ru
-@@||google-analytics.com/analytics.js$domain=sanalmarket.com.tr
 @@||google-analytics.com/analytics.js$domain=saturn.at|schweizerfleisch.ch
 @@||google-analytics.com/analytics.js$domain=shop.kyivstar.ua
 @@||google-analytics.com/analytics.js$domain=skaties.lv
@@ -3598,6 +3600,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||googletagmanager.com/gtm.js$domain=mediamarkt.com.tr
 @@||googletagmanager.com/gtm.js$domain=mediamarkt.de
 @@||googletagmanager.com/gtm.js$domain=mediamarkt.nl
+@@||googletagmanager.com/gtm.js$domain=migros.com.tr
 @@||googletagmanager.com/gtm.js$domain=militaria.pl
 @@||googletagmanager.com/gtm.js$domain=moniteurautomobile.be
 @@||googletagmanager.com/gtm.js$domain=netcombo.com.br|saraiva.com.br|tugatech.com.pt
@@ -3609,7 +3612,6 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||googletagmanager.com/gtm.js$domain=qt.io
 @@||googletagmanager.com/gtm.js$domain=reuters.com
 @@||googletagmanager.com/gtm.js$domain=rollingstone.com
-@@||googletagmanager.com/gtm.js$domain=sanalmarket.com.tr
 @@||googletagmanager.com/gtm.js$domain=shop.kyivstar.ua
 @@||googletagmanager.com/gtm.js$domain=sloggi.com
 @@||googletagmanager.com/gtm.js$domain=society6.com
@@ -3879,8 +3881,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||iklangratiz.com^$generichide
 @@||ilsole24ore.com^*/fingerprint2.min.js?
 @@||image.mahoyome.jp/images/$image,domain=mahoyome.jp
-@@||imagebam.com/JS/site_ads.js
 @@||imagebam.com/js/site_ads.js
+@@||imagebam.com/JS/site_ads.js
 @@||imagecorn.com^$third-party
 @@||imagefap.com^*/ad_loader.js
 @@||imageg.net^$third-party
@@ -5074,7 +5076,6 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||platform.twitter.com/widgets/widget_iframe.$subdocument,badfilter
 @@||platform.twitter.com^$domain=klout.com|twimg.com|twitpic.com
 @@||platform.twitter.com^$script,domain=9anime.to,badfilter
-@@||platform.twitter.com^$third-party
 @@||platform-api.sharethis.com/js/sharethis.js$domain=haberkibris.com
 @@||platform-api.sharethis.com/js/sharethis.js$domain=itsmycity.ru
 @@||platform-api.sharethis.com/js/sharethis.js$domain=odatv.com
@@ -5542,7 +5543,9 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||segment-data.zqtk.net^$domain=wsj.com
 @@||segmentify.com//*/events/v1.json?apiKey=$domain=flo.com.tr
 @@||segmentify.com//add/events/v*.json?apiKey=$domain=gittigidiyor.com
+@@||segmentify.com//add/events/v*.json?apiKey=$domain=migros.com.tr
 @@||segmentify.com//get/key/v*.json?$domain=gittigidiyor.com
+@@||segmentify.com//get/key/v*.json?$domain=migros.com.tr
 @@||segmentify.com//get/key/v1.json$domain=flo.com.tr
 @@||segundamano.mx^*/tealium.js
 @@||sellpoint.net/smart_button/$script,domain=walmart.com
@@ -5938,7 +5941,6 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||syndication.exosrv.com/splash.php
 @@||syndication.twitter.com/tweets.json?*&callback=$script
 @@||syndication.twitter.com/tweets.json?callback=$script
-@@||syndication.twitter.com^$third-party
 @@||syracuse.com^$third-party
 @@||szlaki.net.pl/advertisement.js
 @@||szukajka.tv/jsverify.php$~third-party,xmlhttprequest
@@ -6233,7 +6235,6 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||twitlonger.com/images/sign-in-with-twitter.png
 @@||twitter.com/share$third-party,domain=lifehacker.com
 @@||twitter.com/widgets$domain=simcity.com
-@@||twitter.com^$third-party
 @@||twofactorauth.org^$generichide
 @@||twofactorauth.org^*/social/
 @@||txxx.com/js/advertising.js^
@@ -6371,9 +6372,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||view.atdmt.com^$domain=starwoodhotels.com
 @@||viewbug.com^*/fb_button.png
 @@||viggle.tv/ads.js
-@@||vimeo.com^$third-party
 @@||vimeocdn.com/js_opt/share2_combined.min.js$domain=vimeo.com
-@@||vimeocdn.com^$third-party
 @@||vimeocdn.com^*/facebook.svg$domain=vimeo.com
 @@||vip.townnews.com^$script,domain=stltoday.com
 @@||viptube.com^$generichide
@@ -6690,17 +6689,14 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||yahoo.net^$third-party
 @@||yahooapis.com^$third-party
 @@||yalujailbreak.net^$generichide
-@@||yandex.net^$third-party
 @@||yandex.ru/metrika/watch.js$domain=alean.ru|anoncer.net|nabortu.ru|tv.yandex.ru|tvrain.ru
 @@||yandex.ru/metrika/watch.js$domain=anoncer.net
 @@||yandex.ru/metrika/watch.js$domain=engwords.net
 @@||yandex.ru/watch/$xmlhttprequest,domain=anoncer.net
 @@||yandex.ru/webvisor/$xmlhttprequest,domain=anoncer.net
-@@||yandex.ru^$third-party
 @@||yandex.st/share/share.js$domain=66.ru
 @@||yandex.st/share/share.js$domain=66.ru|calculatewater.ru|ktk.kz|splav.ru|vnukovo.ru|foxtrot.com.ua|yadi.sk|gama-gama.ru|foxtrot.com.ua|radiorecord.ru|xn--80aneaaefcxzcih6g1e.xn--p1ai
 @@||yandex.st/swfobject/*^$script
-@@||yandex.ua^$third-party
 @@||yardbarker.com^$third-party
 @@||yarobleirc.ru/bitrix/templates/yarobleirc/js/twitterFetcher_min.js
 @@||yastatic.net/*-player-iframe-api-*/$script,subdocument,xmlhttprequest
@@ -6761,7 +6757,6 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||zencdn.net^$third-party
 @@||zendesk.com^$third-party
 @@||zeperf.com/show_ads.js
-@@||zergnet.com^$third-party
 @@||zeusnews.it^$generichide
 @@||zillowstatic.com/*-social-share-
 @@||zillowstatic.com/c/*/linktrack.js$domain=zillow.com
@@ -11063,6 +11058,7 @@ _zag_cookie.
 ||announcements.uk.com^*/s_code.js
 ||anntaylor.com/webassets/*/page_code.js
 ||annuairemedicaloran.com^
+||anoboy.video/js/amp-social-share
 ||anogjkubvdfe.com^
 ||anogjkubvdfe.com^$important
 ||anonfiles.com/Uf31me45n0/LIL_generator_rar^|$document
@@ -14406,6 +14402,7 @@ _zag_cookie.
 ||bsjhbxtrbvkr.com^
 ||bsjhbxtrbvkr.com^$important
 ||bskijhtct.com^
+||bskwrsjudrp.com^
 ||bsl.nl/extern/smbv-incl/script.js$script
 ||bslgmaxqild.bid^
 ||bslgmaxqild.bid^$important
@@ -17588,6 +17585,7 @@ _zag_cookie.
 ||count.merian.de^
 ||count.munhwa.com^
 ||count.newhua.com^
+||count.nuanyuehanxing.com^
 ||count.paycounter.com^
 ||count.prx.org^
 ||count.qiannao.com^
@@ -22486,6 +22484,7 @@ _zag_cookie.
 ||emp.de/on/demandware.store/*/__Analytics-Tracking
 ||empa.flixbus.de/acv^
 ||empireroll.com^
+||emqeafoztotu.com^
 ||emrahkeskin.com^
 ||emrcrjcxjdsccz.bid^
 ||emrcrjcxjdsccz.bid^$important
@@ -31939,6 +31938,7 @@ _zag_cookie.
 ||illazkka.com^
 ||illazkka.com^$important
 ||illfatedsnail.com^
+||illicium.web.money^
 ||illicium.wmtransfer.com^
 ||illizuqkdqjobt.com^
 ||illizuqkdqjobt.com^$important
@@ -44080,6 +44080,7 @@ _zag_cookie.
 ||pas-tro.ru^
 ||patch-game.com^
 ||pathful.com^$third-party
+||pathlime.com^$third-party
 ||pathofhacks.com^
 ||patientenepd.nl^
 ||patlgfvxkto.com^
@@ -52644,7 +52645,7 @@ _zag_cookie.
 ||st.bebi.com/bebi_v3.js^
 ||st.cdnco.us^
 ||st.chatango.com
-||st.chatango.com^$domain=shirainime.com|mangashiro.co|daemon-hentai.com|seirsanduk.us|mangashiro.org|animefrenzy.net|sedsports.com|158.69.54.218|indoxxi.show|cricfree.sc|cricfree.live|wespeakrugby.com|bosscast.net|strikeout.nu|aniwatcher.com|mylivecricket.info
+||st.chatango.com^$domain=animeindo.moe|shirainime.com|mangashiro.co|daemon-hentai.com|seirsanduk.us|mangashiro.org|animefrenzy.net|sedsports.com|158.69.54.218|indoxxi.show|cricfree.sc|cricfree.live|wespeakrugby.com|bosscast.net|strikeout.nu|aniwatcher.com|mylivecricket.info
 ||st.dynamicyield.com^
 ||st.getsitecontrol.com/main/runtime/$script
 ||st.keywordsconnect.com^
@@ -66040,4 +66041,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Tuesday, 22 October 2019 10:40:18 PM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Wednesday, 23 October 2019 4:40:18 AM AEST)
