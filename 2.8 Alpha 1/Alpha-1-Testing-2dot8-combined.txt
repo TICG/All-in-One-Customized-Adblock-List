@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Wednesday, 23 October 2019 4:40:18 AM AEST
+! Last Modified: Wednesday, 23 October 2019 6:40:21 AM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -1347,8 +1347,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||*$websocket,domain=agar.io|slither.io|mope.io|diep.io|narwhale.io|kartwars.io|blockor.io|splix.io|sharkz.io|meduzzza.io|wings.io|brutal.io|zlap.io|spinz.io|soccerball.io|rusher.io|duals.io|moomoo.io|bellum.io|vertix.io|sparkchess.com|powerline.io|snok.io|gota.io|protonmail.com|mailinator.com|roblox.com|
 @@||*/blank.gif*$image,domain=www.clariant.com
 @@||*advert*$domain=insite.clariant.com
-@@||*enm.com/*/*Ad$domain=androidworld.it
 @@||*enm.com/*/*ad$domain=androidworld.it
+@@||*enm.com/*/*Ad$domain=androidworld.it
 @@||/js/modernizr.js$script,first-party
 @@||1.bp.blogspot.com
 @@||1001tracklists.com^$generichide
@@ -2938,6 +2938,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||everestjs.net/static/st.js$domain=ford.com
 @@||evernote.com^$domain=pioclpoplcdbaefihamjohnefbikjilc
 @@||evernote.com^*/google-analytics-util.js
+@@||everyaction.com^$third-party
 @@||eveselibaspunkts.lv/js/global/fingerprint2.min.js?
 @@||evestment.com/api/analytics/$domain=evestment.com
 @@||evidal.fr/scripts/stats/evidal/s_code.js
@@ -3881,8 +3882,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||iklangratiz.com^$generichide
 @@||ilsole24ore.com^*/fingerprint2.min.js?
 @@||image.mahoyome.jp/images/$image,domain=mahoyome.jp
-@@||imagebam.com/js/site_ads.js
 @@||imagebam.com/JS/site_ads.js
+@@||imagebam.com/js/site_ads.js
 @@||imagecorn.com^$third-party
 @@||imagefap.com^*/ad_loader.js
 @@||imageg.net^$third-party
@@ -4723,6 +4724,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||ngenix.net^*/ads.js
 @@||ngfiles.com^$third-party
 @@||ngolos.com/assets/js/adsense.js
+@@||ngpvan.com^$third-party
 @@||nhl.com/components/shared/omniture-tracking-scripts/newRelic.js
 @@||nicematin.com^*/ads.js
 @@||nike.com/checkout/analytics/js/analyticFunctions.js$domain=nike.com
@@ -7004,8 +7006,8 @@ _linkedin_32.
 _linkedin_icon_
 _linkedin_social_
 _links/share.
-_logHuman=
 _loghuman=
+_logHuman=
 _logikamentecookielaw/
 _logimpressions.
 _loginlog.php?
@@ -20338,8 +20340,8 @@ _zag_cookie.
 ||displaymarketplace.com^$third-party
 ||displaymate.com/cgi-bin/stat/
 ||disqus.com
-||disqus.com/api/*/listrelated.json?
 ||disqus.com/api/*/listRelated.json?
+||disqus.com/api/*/listrelated.json?
 ||disqus.com/api/ping
 ||disqus.com/api/ping?$domain=autobild.de
 ||disqus.com/api/ping?$third-party
@@ -34072,6 +34074,7 @@ _zag_cookie.
 ||jollqxplkz.bid^$important
 ||jollywallet.com^$third-party
 ||jomlajavascript.ru^
+||jomrhqkqvvxix.com^
 ||jomys.xyz^$important
 ||jomznuefrw.com^
 ||jomznuefrw.com^$important
@@ -66041,4 +66044,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Wednesday, 23 October 2019 4:40:18 AM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Wednesday, 23 October 2019 6:40:21 AM AEST)
