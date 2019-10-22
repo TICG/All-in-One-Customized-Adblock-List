@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Tuesday, 22 October 2019 2:40:19 PM AEST
+! Last Modified: Tuesday, 22 October 2019 4:40:19 PM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -1348,8 +1348,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||*$websocket,domain=agar.io|slither.io|mope.io|diep.io|narwhale.io|kartwars.io|blockor.io|splix.io|sharkz.io|meduzzza.io|wings.io|brutal.io|zlap.io|spinz.io|soccerball.io|rusher.io|duals.io|moomoo.io|bellum.io|vertix.io|sparkchess.com|powerline.io|snok.io|gota.io|protonmail.com|mailinator.com|roblox.com|
 @@||*/blank.gif*$image,domain=www.clariant.com
 @@||*advert*$domain=insite.clariant.com
-@@||*enm.com/*/*ad$domain=androidworld.it
 @@||*enm.com/*/*Ad$domain=androidworld.it
+@@||*enm.com/*/*ad$domain=androidworld.it
 @@||/js/modernizr.js$script,first-party
 @@||1.bp.blogspot.com
 @@||1001tracklists.com^$generichide
@@ -3880,8 +3880,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||iklangratiz.com^$generichide
 @@||ilsole24ore.com^*/fingerprint2.min.js?
 @@||image.mahoyome.jp/images/$image,domain=mahoyome.jp
-@@||imagebam.com/js/site_ads.js
 @@||imagebam.com/JS/site_ads.js
+@@||imagebam.com/js/site_ads.js
 @@||imagecorn.com^$third-party
 @@||imagefap.com^*/ad_loader.js
 @@||imageg.net^$third-party
@@ -7009,8 +7009,8 @@ _linkedin_32.
 _linkedin_icon_
 _linkedin_social_
 _links/share.
-_loghuman=
 _logHuman=
+_loghuman=
 _logikamentecookielaw/
 _logimpressions.
 _loginlog.php?
@@ -7341,6 +7341,7 @@ _zag_cookie.
 ||0emm.com^$third-party
 ||0fees.net^
 ||0fees.net^$important
+||0fficial.info^$important
 ||0h6djpk8fn.com^
 ||0h6djpk8fn.com^$important
 ||0hacks.com^
@@ -14630,6 +14631,7 @@ _zag_cookie.
 ||buzzfeed.com^*/small.gif?
 ||buzzfeed.com^*/tracker.js
 ||buzzfiles.net^
+||buzzoola.com^^$important
 ||buzz-stats.com^$third-party
 ||buzzurl.jp/api/counter/
 ||bvanews.com^$popup,third-party
@@ -18671,6 +18673,7 @@ _zag_cookie.
 ||cshzkkihjnweb.com^
 ||cshzkkihjnweb.com^$important
 ||csi.gstatic.com^
+||csi.gstatic.com^$important
 ||csionjbak.com^
 ||csionjbak.com^$important
 ||csi-tracking.com^$third-party
@@ -20333,8 +20336,8 @@ _zag_cookie.
 ||displaymarketplace.com^$third-party
 ||displaymate.com/cgi-bin/stat/
 ||disqus.com
-||disqus.com/api/*/listRelated.json?
 ||disqus.com/api/*/listrelated.json?
+||disqus.com/api/*/listRelated.json?
 ||disqus.com/api/ping
 ||disqus.com/api/ping?$domain=autobild.de
 ||disqus.com/api/ping?$third-party
@@ -41285,6 +41288,7 @@ _zag_cookie.
 ||newsbanner.co.kr/newsad/advertiser/ad_blank.php^
 ||newsbreakshere.com^$popup,third-party
 ||news-cmps.cz.cc^
+||news-code.com^$important
 ||newscom.com/js/v2/ga.js
 ||newscomm.nate.com/Etc/SocialAD^
 ||newscorpaustralia.com/akam/$script
@@ -50990,6 +50994,7 @@ _zag_cookie.
 ||shop.kicker.de^
 ||shop.nate.com/shopbox/news.htm^
 ||shop.nate.com/shopbox/shopbox.htm^
+||shop.nate.com/shopbox/shopbox_V3.htm^
 ||shop.szakalmetal.hu//js/cookies.js$script
 ||shop4followers.com^
 ||shopautoweek.com/js/modules/tracker.js
@@ -58088,6 +58093,7 @@ _zag_cookie.
 ||umvgcqaxmie.com^$important
 ||umwsjnsvfzuo.com^
 ||umwsjnsvfzuo.com^$important
+||umxxuqpbhylyy.com^
 ||umxzhxfrrkmt.com^
 ||umxzhxfrrkmt.com^$important
 ||umybobusjo.com^
@@ -64329,6 +64335,7 @@ _zag_cookie.
 ||youtube.com/embed/?enablejsapi=1&origin=*3dnews.ru&widgetid=1
 ||youtube.com/gen_204
 ||youtube.com/gen_204?$~xmlhttprequest
+||youtube.com/get_endscreen?$important,xmlhttprequest
 ||youtube.com/get_midroll$important
 ||youtube.com/get_midroll_info^
 ||youtube.com/get_midroll_info^$important,xmlhttprequest
@@ -66021,4 +66028,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Tuesday, 22 October 2019 2:40:19 PM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Tuesday, 22 October 2019 4:40:19 PM AEST)
