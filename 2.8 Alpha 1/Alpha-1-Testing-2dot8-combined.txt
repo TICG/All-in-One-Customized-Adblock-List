@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Thursday, 24 October 2019 4:40:19 AM AEST
+! Last Modified: Thursday, 24 October 2019 6:40:19 AM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -1337,8 +1337,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||*$websocket,domain=agar.io|slither.io|mope.io|diep.io|narwhale.io|kartwars.io|blockor.io|splix.io|sharkz.io|meduzzza.io|wings.io|brutal.io|zlap.io|spinz.io|soccerball.io|rusher.io|duals.io|moomoo.io|bellum.io|vertix.io|sparkchess.com|powerline.io|snok.io|gota.io|protonmail.com|mailinator.com|roblox.com|
 @@||*/blank.gif*$image,domain=www.clariant.com
 @@||*advert*$domain=insite.clariant.com
-@@||*enm.com/*/*Ad$domain=androidworld.it
 @@||*enm.com/*/*ad$domain=androidworld.it
+@@||*enm.com/*/*Ad$domain=androidworld.it
 @@||/js/modernizr.js$script,first-party
 @@||1.bp.blogspot.com
 @@||1001tracklists.com^$generichide
@@ -3876,8 +3876,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||iklangratiz.com^$generichide
 @@||ilsole24ore.com^*/fingerprint2.min.js?
 @@||image.mahoyome.jp/images/$image,domain=mahoyome.jp
-@@||imagebam.com/js/site_ads.js
 @@||imagebam.com/JS/site_ads.js
+@@||imagebam.com/js/site_ads.js
 @@||imagecorn.com^$third-party
 @@||imagefap.com^*/ad_loader.js
 @@||imageg.net^$third-party
@@ -6374,7 +6374,9 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||view.atdmt.com^$domain=starwoodhotels.com
 @@||viewbug.com^*/fb_button.png
 @@||viggle.tv/ads.js
+@@||vimeo.com^$third-party
 @@||vimeocdn.com/js_opt/share2_combined.min.js$domain=vimeo.com
+@@||vimeocdn.com^$third-party
 @@||vimeocdn.com^*/facebook.svg$domain=vimeo.com
 @@||vip.townnews.com^$script,domain=stltoday.com
 @@||viptube.com^$generichide
@@ -24344,6 +24346,7 @@ _zag_cookie.
 ||fenglin.to/8drama_yahoo/$domain=fenglin.to
 ||fengrtnoxuwwe.com^
 ||fengrtnoxuwwe.com^$important
+||feozcthyfbdc.com^
 ||fepzygektdt.com^
 ||fepzygektdt.com^$important
 ||feqlklwaafgc.com^
@@ -66092,4 +66095,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Thursday, 24 October 2019 4:40:19 AM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Thursday, 24 October 2019 6:40:19 AM AEST)
