@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Thursday, 24 October 2019 6:40:19 AM AEST
+! Last Modified: Thursday, 24 October 2019 8:40:18 AM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -1782,6 +1782,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||api.twisto.pl^$third-party
 @@||api.vidaxl.com^*/trackingservice/customerportal/*?$xmlhttprequest,domain=tracking.vidaxl.com
 @@||api-cdn.embed.ly^$third-party
+@@||api-maps.yandex.ru^$third-party
 @@||apis.google.com/js/platform.js$domain=9gag.com|discogs.com|febbit.com|id.logi.com|jakdojade.pl|moshi.com|passeidireto.com|sato.fi
 @@||apis.google.com^$third-party
 @@||api-track.delhivery.com/track?waybillId=$~third-party,xmlhttprequest
@@ -29940,6 +29941,7 @@ _zag_cookie.
 ||heawnqbmsi.bid^
 ||heawnqbmsi.bid^$important
 ||hecs.com^
+||heeevykjhujfy.com^
 ||heefwozhlxgz.com^
 ||heefwozhlxgz.com^$important
 ||heelicotper.ru^
@@ -62751,6 +62753,7 @@ _zag_cookie.
 ||xemales.com/lxxl/*_lxxl.$script,~third-party
 ||xep3gae.top^
 ||xep3gae.top^$important
+||xeqbdmuvjqt.com^
 ||xewzazxkmzpc.com^
 ||xewzazxkmzpc.com^$important
 ||xexklpgrsg.com^$important
@@ -66095,4 +66098,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Thursday, 24 October 2019 6:40:19 AM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Thursday, 24 October 2019 8:40:18 AM AEST)
