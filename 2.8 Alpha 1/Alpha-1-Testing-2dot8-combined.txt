@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Wednesday, 23 October 2019 10:40:20 PM AEST
+! Last Modified: Thursday, 24 October 2019 12:40:20 AM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -1822,6 +1822,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||asendiausa.com/tracking/js/tracking/customertracking.js?
 @@||asos.com/Content/images/*-ico
 @@||aspnetcdn.com^$third-party
+@@||as-sec.casalemedia.com/cygnus|$domain=aternos.org
 @@||asset.pagefair.com/adimages/$domain=adn.com
 @@||asset.pagefair.com/adimages/textlink-ads.jpg$domain=eastbaytimes.com
 @@||asset.pagefair.com/adimages/textlink-ads.jpg$domain=ocregister.com
@@ -2196,7 +2197,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||cdn.onesignal.com/sdks/OneSignalSDK.js$domain=pes24.com
 @@||cdn.onesignal.com/sdks/OneSignalSDK.js$domain=warhead.su
 @@||cdn.onesignal.com/sdks/OneSignalSDK.js^$domain=puls4.com
-@@||cdn.onesignal.com/sdks/OneSignalSDK.js^$domain=satoshihero.com
+@@||cdn.onesignal.com/sdks/OneSignalSDK.js^$domain=satoshimonster.com|satoshihero.com
 @@||cdn.optimizely.com/js/$domain=zdnet.com
 @@||cdn.optimizely.com/js/*.js$domain=casper.com
 @@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|dramafever.com|forbes.com|freeshipping.com|heroku.com|hotukdeals.com|imageshack.com|lifelock.com|malwarebytes.org|policymic.com|ricardo.ch|spotify.com|techrepublic.com|zdnet.com
@@ -3003,6 +3004,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||fapxl.com/view/movie/config/*?ModPagespeed=off&utm_source=&utm_medium=&utm_campaign=$script,~third-party
 @@||fark.net/images/*/links/
 @@||fastcontentdelivery.com/js/*ad$script
+@@||fastlane.rubiconproject.com/a/api/fastlane.json|$domain=aternos.org
 @@||fastly.net/ad2/$image,badfilter
 @@||fastly.net/ad2/$script,badfilter
 @@||fastly.net/ad2/$xmlhttprequest,badfilter
@@ -3057,6 +3059,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||flacmusicfinder.com/*_ads.js$script
 @@||flagshipmerchantservices.com/clickpathmedia.js
 @@||flashback.org^*/ads.js$script
+@@||flashtalking.com/lgc|$domain=aternos.org
 @@||flashx1.tv/js/popad.js$script
 @@||flashx1.tv/js/showad$script
 @@||flattr.com/images/platforms/$image,domain=flattr.com
@@ -3847,6 +3850,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||i.po.st/static/v3/post-widget.js$domain=seenive.com
 @@||i.po.st^$domain=rolandgarros.com
 @@||i.s-microsoft.com/wedcs/ms.js$domain=skype.com
+@@||ib.adnxs.com/ut/v3/prebid|$domain=aternos.org
 @@||ibis.com/scripts-*/xtanalyzer_roi.js
 @@||ibispaint.com/js/googleAnalytics.js
 @@||ibm.com/software/reports/compatibility/clarity-reports/js/$script,~third-party
@@ -5653,6 +5657,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||sndcdn.com/images/connect_social.png$domain=soundcloud.com
 @@||sndcdn.com^$third-party
 @@||sneakystamp.com^$xmlhttprequest,domain=androidcentral.com
+@@||snigel-d.openx.net/*/arj|$domain=aternos.org
+@@||snigel-d.openx.net/w/1.0/arj?cc=1$domain=aternos.org
 @@||soccer*.com/sites/all/themes/newtheme/adframe.js
 @@||soccer.ru/sites/all/themes/mytheme/advert.js
 @@||socialblade.com/images/$image
@@ -6100,6 +6106,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||titulky.com^$generichide
 @@||tkx2-prod.anvato.net^$third-party
 @@||tkx-acc.apis.anvato.net^$third-party
+@@||tlx.3lift.com/header/auction|$domain=aternos.org
 @@||tmsbuyatoyota.com^$third-party
 @@||tns-counter.ru/tcounter.js$domain=forbes.ru
 @@||tnwcdn.com/wp-content/blogs.dir/*_twitter-$domain=thenextweb.com
@@ -11764,7 +11771,6 @@ _zag_cookie.
 ||asrv-a.akamaihd.net/sd/1700/1008.js
 ||assassinationscience.com^$popup,third-party
 ||assbrotherhood.ru^
-||as-sec.casalemedia.com/cygnus|$empty,important,domain=aternos.org
 ||assets.adobedtm.com^$domain=mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|gittigidiyor.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com
 ||assets.bbystatic.com/analytics-dotcom/
 ||assets.casualportals.com/gdpr/wall/kz/index.html
@@ -17836,6 +17842,7 @@ _zag_cookie.
 ||cqcebzspxptwfl.bid^
 ||cqcebzspxptwfl.bid^$important
 ||cqcounter.com^$third-party
+||cqflplcldh.com^
 ||cqhxrlnhzlda.com^
 ||cqhxrlnhzlda.com^$important
 ||cqieqaxlphdi.com^
@@ -20340,8 +20347,8 @@ _zag_cookie.
 ||displaymarketplace.com^$third-party
 ||displaymate.com/cgi-bin/stat/
 ||disqus.com
-||disqus.com/api/*/listrelated.json?
 ||disqus.com/api/*/listRelated.json?
+||disqus.com/api/*/listrelated.json?
 ||disqus.com/api/ping
 ||disqus.com/api/ping?$domain=autobild.de
 ||disqus.com/api/ping?$third-party
@@ -24001,7 +24008,6 @@ _zag_cookie.
 ||fastgiveaway.com^
 ||fast-hack.com^
 ||fastlane.rubiconproject.com/a/api/fastlane.json^
-||fastlane.rubiconproject.com/a/api/fastlane.json|$empty,important,domain=aternos.org
 ||fastleakedmedia.com^
 ||fast-localtech-solu101.ml^
 ||fastly.net$script,domain=nasdaq.com
@@ -24932,7 +24938,6 @@ _zag_cookie.
 ||flash-stat.com^$third-party
 ||flashstats.libsyn.com^
 ||flashtalking.com$domain=youtube.com
-||flashtalking.com/lgc|$empty,important,domain=aternos.org
 ||flashtalking.com^$important
 ||flashtalking.com^$third-party
 ||flashupdatenow.co^
@@ -40259,6 +40264,7 @@ _zag_cookie.
 ||mtyqtczr.bid^$important
 ||mtysahmkqqdo.com^
 ||mtysahmkqqdo.com^$important
+||mtzddtrs.com^
 ||muasoctv.com^
 ||muasoctv.com^$important
 ||mucapps.com^
@@ -48340,7 +48346,6 @@ _zag_cookie.
 ||redditmedia.com/gtm^$important,~document
 ||redditmedia.com/gtm^$subdocument,important,redirect=noopframe
 ||redditmedia.com/moat/*
-||redditstatic.com/_chat$script,domain=reddit.com
 ||redditstatic.com/ads/pixel.js
 ||redditstatic.com/button/$third-party,domain=~reddit.com
 ||redditstatic.com/button/button*.$domain=~reddit.com
@@ -51834,7 +51839,6 @@ _zag_cookie.
 ||snhuxhdjlxrd.bid^
 ||snhuxhdjlxrd.bid^$important
 ||sniffb.com^
-||snigel-d.openx.net/*/arj|$empty,important,domain=aternos.org
 ||snip.ly^$script
 ||sniperlog.ru^$third-party
 ||snipeskins.com^
@@ -55611,7 +55615,6 @@ _zag_cookie.
 ||tluwjhtsvoz.com^
 ||tlvfeylwod.com^
 ||tlvmedia.com^
-||tlx.3lift.com/header/auction|$empty,important,domain=aternos.org
 ||tlxspilyxsfx.com^
 ||tlzovwtootkvbj.bid^
 ||tlzovwtootkvbj.bid^$important
@@ -66078,4 +66081,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Wednesday, 23 October 2019 10:40:20 PM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Thursday, 24 October 2019 12:40:20 AM AEST)
