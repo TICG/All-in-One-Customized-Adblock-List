@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Wednesday, 23 October 2019 8:40:18 PM AEST
+! Last Modified: Wednesday, 23 October 2019 10:40:20 PM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -1337,8 +1337,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||*$websocket,domain=agar.io|slither.io|mope.io|diep.io|narwhale.io|kartwars.io|blockor.io|splix.io|sharkz.io|meduzzza.io|wings.io|brutal.io|zlap.io|spinz.io|soccerball.io|rusher.io|duals.io|moomoo.io|bellum.io|vertix.io|sparkchess.com|powerline.io|snok.io|gota.io|protonmail.com|mailinator.com|roblox.com|
 @@||*/blank.gif*$image,domain=www.clariant.com
 @@||*advert*$domain=insite.clariant.com
-@@||*enm.com/*/*Ad$domain=androidworld.it
 @@||*enm.com/*/*ad$domain=androidworld.it
+@@||*enm.com/*/*Ad$domain=androidworld.it
 @@||/js/modernizr.js$script,first-party
 @@||1.bp.blogspot.com
 @@||1001tracklists.com^$generichide
@@ -3872,8 +3872,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||iklangratiz.com^$generichide
 @@||ilsole24ore.com^*/fingerprint2.min.js?
 @@||image.mahoyome.jp/images/$image,domain=mahoyome.jp
-@@||imagebam.com/JS/site_ads.js
 @@||imagebam.com/js/site_ads.js
+@@||imagebam.com/JS/site_ads.js
 @@||imagecorn.com^$third-party
 @@||imagefap.com^*/ad_loader.js
 @@||imageg.net^$third-party
@@ -6996,8 +6996,8 @@ _linkedin_32.
 _linkedin_icon_
 _linkedin_social_
 _links/share.
-_logHuman=
 _loghuman=
+_logHuman=
 _logikamentecookielaw/
 _logimpressions.
 _loginlog.php?
@@ -10771,6 +10771,7 @@ _zag_cookie.
 ||analytics.iraiser.eu^
 ||analytics.islamicfinder.org^
 ||analytics.jabong.com^
+||analytics.kaggle.io^
 ||analytics.kaltura.com^
 ||analytics.kapost.com^
 ||analytics.ladmedia.fr^
@@ -17180,6 +17181,7 @@ _zag_cookie.
 ||cometruestar.ru^
 ||comfortablecheese.com^
 ||comfortablecheese.com^$third-party
+||com-gift-winner-lucky-day.vip^$important
 ||comgnnyx.com^
 ||comgnnyx.com^$important
 ||com-guard-device.live^$important
@@ -19381,7 +19383,6 @@ _zag_cookie.
 ||da-ads.com/google.html^
 ||dab-bank.de/img/dummy.gif
 ||dabbaservice.com^
-||dable.io/logs
 ||dable.io^$important
 ||dable.io^$third-party
 ||dabs.com/AbacusTest/clientinfo_bk.gif
@@ -20339,8 +20340,8 @@ _zag_cookie.
 ||displaymarketplace.com^$third-party
 ||displaymate.com/cgi-bin/stat/
 ||disqus.com
-||disqus.com/api/*/listRelated.json?
 ||disqus.com/api/*/listrelated.json?
+||disqus.com/api/*/listRelated.json?
 ||disqus.com/api/ping
 ||disqus.com/api/ping?$domain=autobild.de
 ||disqus.com/api/ping?$third-party
@@ -20727,6 +20728,7 @@ _zag_cookie.
 ||dollarupload.net^
 ||dollarupload.org^
 ||dolohen.com^$important
+||dolphincdn.xyz^$important
 ||dom2.ru/*/setcookies.js
 ||domain.com.au/usersstats$xmlhttprequest
 ||domain460009.com^
@@ -23221,6 +23223,7 @@ _zag_cookie.
 ||events.secureserver.net^
 ||events.sk.ht^
 ||events.snacktv.de^
+||events.tubecup.org^
 ||events.turbosquid.com^
 ||events.walla.co.il/events.asp
 ||events.whisk.com^
@@ -25144,6 +25147,7 @@ _zag_cookie.
 ||fofjazpwccc.com^
 ||fofjazpwccc.com^$important
 ||fofxjgrn.com^
+||fofxjgrn.com^$important
 ||fog.pixual.co^
 ||fogl1onf.com^$third-party
 ||foguumjql.com^
@@ -29831,6 +29835,7 @@ _zag_cookie.
 ||hd-is.com^
 ||hdjjksjfgo.com^$important
 ||hd-livetream.com^
+||hdmaze.net^$important
 ||hdmoviefull.com^
 ||hdmovieon.com^
 ||hdmovieplay.com^
@@ -35214,6 +35219,7 @@ _zag_cookie.
 ||kjkdagfnjm.bid^$important
 ||kjkwrmwdyhi.com^
 ||kjkwrmwdyhi.com^$important
+||kjlahwtvckpaci.com^
 ||kjltrjvjfran.com^
 ||kjltrjvjfran.com^$important
 ||kjlvutytm.com^
@@ -36916,6 +36922,7 @@ _zag_cookie.
 ||ljzhxfurwibo.com^
 ||ljzhxfurwibo.com^$important
 ||ljzsucmiodrro.com^
+||ljzsucmiodrro.com^$important
 ||lkaarvdprhzx.com^
 ||lkaarvdprhzx.com^$important
 ||lkamujrx.com^
@@ -38029,6 +38036,7 @@ _zag_cookie.
 ||madnet.ru^$third-party
 ||madpain.com/images2/*.jpg$~third-party
 ||madskinz.com^
+||madslims.com^$important
 ||madthumbs.com/tlog.php
 ||m-aeti-bocieva.info^
 ||mafndqbvdgkm.com^
@@ -50806,6 +50814,7 @@ _zag_cookie.
 ||sgxaqysyilwkiu.com^
 ||sgxaqysyilwkiu.com^$important
 ||sgycfrrkz.com^
+||sgycfrrkz.com^$important
 ||sgzlmagzrrk.com^
 ||sgzlmagzrrk.com^$important
 ||sgzsviqlvcxc.com^
@@ -51801,6 +51810,7 @@ _zag_cookie.
 ||snaxbgzg.bid^$important
 ||snazzyspace.com/generators/viewer-counter/counter.php$third-party
 ||snckdjuymeopsc.com^
+||snckdjuymeopsc.com^$important
 ||sndkorea.nowcdn.co.kr/emart/
 ||sndkorea.nowcdn.co.kr/media/
 ||sndkorea.nowcdn.co.kr/xml/
@@ -59642,6 +59652,7 @@ _zag_cookie.
 ||visitping.rossel.be^
 ||visits.lt^$third-party
 ||visitstats.com^$popunder,domain=vjav.com
+||visitstats.com^$third-party
 ||visitstreamer.com^$third-party
 ||visto1.net^$third-party
 ||vistosulweb.com^*/Newsletter.
@@ -60661,6 +60672,7 @@ _zag_cookie.
 ||wcracked.com^
 ||wcs.naver.com^
 ||wcs.naver.net^$domain=brotoon.com
+||wcwcypfnvih.com^
 ||wcwdjojsxbbl.com^
 ||wcwzzauws.com^
 ||wcwzzauws.com^$important
@@ -65996,6 +66008,7 @@ _zag_cookie.
 |http*:*/pi.aspx$important,subdocument
 |http*:*/pic.gif?m=$image,important
 |http*:*/player_ads.html$important,subdocument
+|http*:*/pview?event$important
 |http*:*/rtrg?$image,important
 |http*:*/setbucket?signature=$important,subdocument
 |http*:*/spacer.gif$image,important,domain=~kinopoisk.ru
@@ -66065,4 +66078,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Wednesday, 23 October 2019 8:40:18 PM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Wednesday, 23 October 2019 10:40:20 PM AEST)
