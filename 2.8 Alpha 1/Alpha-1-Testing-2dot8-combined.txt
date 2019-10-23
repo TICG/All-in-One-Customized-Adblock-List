@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Thursday, 24 October 2019 2:40:18 AM AEST
+! Last Modified: Thursday, 24 October 2019 4:40:19 AM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -2448,7 +2448,6 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||connect.mail.ru/proxy?resource=getLoginStatus$domain=fotostrana.ru
 @@||consensu.org/gdpr/$script,domain=mentalfloss.com
 @@||consensu.org^$domain=ghacks.net|sourceforge.net
-@@||consensu.org^$third-party
 @@||consent.cmp.oath.com/cmp3p.js$domain=dailystar.co.uk
 @@||consent.cmp.oath.com^$script,domain=dailystar.co.uk|express.co.uk
 @@||consent.cmp.oath.com^$script,domain=express.co.uk
@@ -3877,8 +3876,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||iklangratiz.com^$generichide
 @@||ilsole24ore.com^*/fingerprint2.min.js?
 @@||image.mahoyome.jp/images/$image,domain=mahoyome.jp
-@@||imagebam.com/JS/site_ads.js
 @@||imagebam.com/js/site_ads.js
+@@||imagebam.com/JS/site_ads.js
 @@||imagecorn.com^$third-party
 @@||imagefap.com^*/ad_loader.js
 @@||imageg.net^$third-party
@@ -5073,6 +5072,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||platform.twitter.com/widgets/widget_iframe.$subdocument,badfilter
 @@||platform.twitter.com^$domain=klout.com|twimg.com|twitpic.com
 @@||platform.twitter.com^$script,domain=9anime.to,badfilter
+@@||platform.twitter.com^$third-party
 @@||platform-api.sharethis.com/js/sharethis.js$domain=haberkibris.com
 @@||platform-api.sharethis.com/js/sharethis.js$domain=itsmycity.ru
 @@||platform-api.sharethis.com/js/sharethis.js$domain=odatv.com
@@ -5940,6 +5940,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||syndication.exosrv.com/splash.php
 @@||syndication.twitter.com/tweets.json?*&callback=$script
 @@||syndication.twitter.com/tweets.json?callback=$script
+@@||syndication.twitter.com^$third-party
 @@||syracuse.com^$third-party
 @@||szlaki.net.pl/advertisement.js
 @@||szukajka.tv/jsverify.php$~third-party,xmlhttprequest
@@ -6235,6 +6236,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||twitlonger.com/images/sign-in-with-twitter.png
 @@||twitter.com/share$third-party,domain=lifehacker.com
 @@||twitter.com/widgets$domain=simcity.com
+@@||twitter.com^$third-party
 @@||twofactorauth.org^$generichide
 @@||twofactorauth.org^*/social/
 @@||txxx.com/js/advertising.js^
@@ -11715,6 +11717,7 @@ _zag_cookie.
 ||aseanbanner.tk^$important
 ||asecxggulyrf.com^
 ||asecxggulyrf.com^$important
+||asenytuhlhwrwz.com^
 ||aserve.directorym.com^
 ||aservices.party^
 ||asesoriafiscalacf.com^
@@ -42839,6 +42842,7 @@ _zag_cookie.
 ||ojiffvsutzrx.com^$important
 ||ojjsoozoerpt.com^
 ||ojjsoozoerpt.com^$important
+||ojktwzisvpb.com^
 ||ojmkcnuur.com^
 ||ojmkcnuur.com^$important
 ||ojmokfvfi.com^
@@ -45989,6 +45993,7 @@ _zag_cookie.
 ||proleaguedota.com^
 ||prolltape.com^
 ||pro-market.net^$important
+||promclickapp.biz^$third-party
 ||promediasearch.com^
 ||promo.skf.com/cdnr/300/acton/bn/tracker/$script
 ||promoandsweeps.com^
@@ -59975,6 +59980,7 @@ _zag_cookie.
 ||voss.collegehumor.com^
 ||vote.sibnet.ru^
 ||votes.buzz.yahoo.com^$third-party
+||votetoda.com^$third-party
 ||votigo.com/contests/t/
 ||votistics.com^$third-party
 ||voucherfree.info^
@@ -66086,4 +66092,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Thursday, 24 October 2019 2:40:18 AM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Thursday, 24 October 2019 4:40:19 AM AEST)
