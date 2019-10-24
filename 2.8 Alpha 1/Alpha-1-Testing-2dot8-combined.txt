@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Friday, 25 October 2019 12:40:20 AM AEST
+! Last Modified: Friday, 25 October 2019 4:40:19 AM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -3878,8 +3878,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||iklangratiz.com^$generichide
 @@||ilsole24ore.com^*/fingerprint2.min.js?
 @@||image.mahoyome.jp/images/$image,domain=mahoyome.jp
-@@||imagebam.com/js/site_ads.js
 @@||imagebam.com/JS/site_ads.js
+@@||imagebam.com/js/site_ads.js
 @@||imagecorn.com^$third-party
 @@||imagefap.com^*/ad_loader.js
 @@||imageg.net^$third-party
@@ -7012,8 +7012,8 @@ _linkedin_32.
 _linkedin_icon_
 _linkedin_social_
 _links/share.
-_logHuman=
 _loghuman=
+_logHuman=
 _logikamentecookielaw/
 _logimpressions.
 _loginlog.php?
@@ -9145,6 +9145,7 @@ _zag_cookie.
 ||adexview.new-star.co.kr^
 ||adeyujimmmh.com^
 ||adeyujimmmh.com^$important
+||adezrvjcbyu.com^
 ||adf.acrosspf.com/adifr/
 ||adf.acrosspf.com/js/acrossadx.js^
 ||adf.ly/ad/conv?
@@ -12835,6 +12836,7 @@ _zag_cookie.
 ||beacon.mtgx.tv^
 ||beacon.netflix.com^
 ||beacon.nuskin.com^
+||beacon.qq.com^
 ||beacon.richrelevance.com^
 ||beacon.riskified.com^
 ||beacon.rum.dynapis.com^
@@ -15726,6 +15728,7 @@ _zag_cookie.
 ||cfcnet.top^$third-party
 ||cfdmkifknsjt.com^
 ||cfdmkifknsjt.com^$important
+||cfg.imtt.qq.com^
 ||cf-getfile.com^
 ||cfhkiriics.com^
 ||cfhkiriics.com^$important
@@ -20368,8 +20371,8 @@ _zag_cookie.
 ||displaymarketplace.com^$third-party
 ||displaymate.com/cgi-bin/stat/
 ||disqus.com
-||disqus.com/api/*/listrelated.json?
 ||disqus.com/api/*/listRelated.json?
+||disqus.com/api/*/listrelated.json?
 ||disqus.com/api/ping
 ||disqus.com/api/ping?$domain=autobild.de
 ||disqus.com/api/ping?$third-party
@@ -27827,6 +27830,7 @@ _zag_cookie.
 ||giyjhogjmfmc.com^$important
 ||giyupoeynkfx.com^
 ||giyupoeynkfx.com^$important
+||gizmodo.uol.com.br/wp-content/blogs.dir/*/gizmodo-newsletter-
 ||gj.applog.uc.cn/collect^
 ||gjapplog.uc.cn/collect^
 ||gjbgesaromnb.com^
@@ -35377,6 +35381,7 @@ _zag_cookie.
 ||kmkweqtfjw.com^$important
 ||kmpcmafvqf.com^
 ||kmpcmafvqf.com^$important
+||kmpxgnnoom.com^
 ||kmqlirdx.bid^
 ||kmqlirdx.bid^$important
 ||kmqwe.in^
@@ -37218,6 +37223,7 @@ _zag_cookie.
 ||log.sv.pandora.tv^
 ||log.sz-online.de^
 ||log.tagtic.cn^
+||log.tbs.qq.com^
 ||log.thevideo.me/logpop^
 ||log.thevideo.me^
 ||log.v.iask.com^
@@ -40088,6 +40094,7 @@ _zag_cookie.
 ||mqohsosljexz.com^
 ||mqpyllobxdrfiu.com^
 ||mqpyllobxdrfiu.com^$important
+||mqqad.html5.qq.com^
 ||mqs.ioam.de^
 ||mquvqdhzgfyjl.com^
 ||mquvqdhzgfyjl.com^$important
@@ -48654,6 +48661,7 @@ _zag_cookie.
 ||responsetap.com^$third-party
 ||responsin.info^
 ||responsin.info^$important
+||ressource.gdpr-banner.awsmpsa.com/js/tarteauxprunes.js
 ||restaurantpromotionsusa.com^
 ||restor01k.info^$third-party
 ||restoring.club^
@@ -52601,6 +52609,7 @@ _zag_cookie.
 ||srutebmduoh.myfw.us^
 ||srv.bebi.com/public/js/bebi_v1.js^
 ||srv.csavr.com/www/delivery/ajs.php^
+||srv.dc-1.net^
 ||srv.mzcdn.com^
 ||srv.onedio.com/counter^
 ||srv.onedio.com/geo/code
@@ -66130,4 +66139,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Friday, 25 October 2019 12:40:20 AM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Friday, 25 October 2019 4:40:19 AM AEST)
