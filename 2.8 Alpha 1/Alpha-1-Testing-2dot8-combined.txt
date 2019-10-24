@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Thursday, 24 October 2019 6:40:17 PM AEST
+! Last Modified: Thursday, 24 October 2019 8:40:18 PM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -1337,8 +1337,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||*$websocket,domain=agar.io|slither.io|mope.io|diep.io|narwhale.io|kartwars.io|blockor.io|splix.io|sharkz.io|meduzzza.io|wings.io|brutal.io|zlap.io|spinz.io|soccerball.io|rusher.io|duals.io|moomoo.io|bellum.io|vertix.io|sparkchess.com|powerline.io|snok.io|gota.io|protonmail.com|mailinator.com|roblox.com|
 @@||*/blank.gif*$image,domain=www.clariant.com
 @@||*advert*$domain=insite.clariant.com
-@@||*enm.com/*/*ad$domain=androidworld.it
 @@||*enm.com/*/*Ad$domain=androidworld.it
+@@||*enm.com/*/*ad$domain=androidworld.it
 @@||/js/modernizr.js$script,first-party
 @@||1.bp.blogspot.com
 @@||1001tracklists.com^$generichide
@@ -2427,6 +2427,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||comcastnets.net/thyme/img/button-login-twitter.png$domain=eonline.com
 @@||comcastresidentialservices.tt.omtrdc.net/m2/comcastresidentialservices^$domain=xfinity.com
 @@||comeadvertisewithus.com^*/ads.js
+@@||comicbook.com^$generichide,badfilter
 @@||comnuan.com/ads.js
 @@||complex.com/ads.js
 @@||complex.com^$third-party
@@ -3877,8 +3878,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||iklangratiz.com^$generichide
 @@||ilsole24ore.com^*/fingerprint2.min.js?
 @@||image.mahoyome.jp/images/$image,domain=mahoyome.jp
-@@||imagebam.com/JS/site_ads.js
 @@||imagebam.com/js/site_ads.js
+@@||imagebam.com/JS/site_ads.js
 @@||imagecorn.com^$third-party
 @@||imagefap.com^*/ad_loader.js
 @@||imageg.net^$third-party
@@ -20282,6 +20283,7 @@ _zag_cookie.
 ||dionneg.com^
 ||diopic.net/images/
 ||dipladoks.org^$important
+||diplomahawaii.com^$third-party
 ||dippic.com/cgi-bin/index_dl.cgi?
 ||dipsbbygv.com^
 ||dipsbbygv.com^$important
@@ -28472,6 +28474,7 @@ _zag_cookie.
 ||gosvhpsc.com^
 ||gosvhpsc.com^$important
 ||goswapcs.com^
+||gotchosen.com^$third-party
 ||gotcodes.us^
 ||gotdns.com/track/blank.aspx?
 ||gotgamecheats.net^
@@ -34574,6 +34577,7 @@ _zag_cookie.
 ||jwpltx.com^
 ||jwpltx.com^$important
 ||jwpltx.com^$third-party
+||jwpsrv.com^$important
 ||jwsc.cn^
 ||jwuvfovjzwe.com^
 ||jwwlyiicjkuh.com^
@@ -40210,6 +40214,7 @@ _zag_cookie.
 ||msxstudios.de^*/system/stats/
 ||mszfmpseoqbu.com^
 ||mszfmpseoqbu.com^$important
+||mszoioqvm.com^
 ||mt.co.kr/ad/
 ||m-t.io^$third-party
 ||mtag.mman.kr/get_ad.mezzo/
@@ -40979,6 +40984,7 @@ _zag_cookie.
 ||ncjjybttngffe.com^$important
 ||nclfwbnmcrci.com^
 ||nclfwbnmcrci.com^$important
+||ncmcbufifgcu.com^
 ||ncoibhdzttozh.com^
 ||ncoibhdzttozh.com^$important
 ||ncom.dk^$third-party
@@ -50502,6 +50508,7 @@ _zag_cookie.
 ||seedtag.com^$important
 ||seedtag.com^$third-party
 ||seehits.com^$third-party
+||seeip.org^$third-party
 ||seelive.me/wau.php
 ||seesaa.jp/ot_square.pl?
 ||seesaa.jp^$third-party
@@ -52020,6 +52027,7 @@ _zag_cookie.
 ||solutionblue.us^
 ||solutionhacks.eu^
 ||solutionnice.info^
+||solutionshindsight.net^$third-party
 ||solutionzip.us^
 ||soluxury.co.uk^
 ||solvay.com/js/ext.js
@@ -66105,4 +66113,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Thursday, 24 October 2019 6:40:17 PM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Thursday, 24 October 2019 8:40:18 PM AEST)
