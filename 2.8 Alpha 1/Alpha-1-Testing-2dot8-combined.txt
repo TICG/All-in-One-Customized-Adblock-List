@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Thursday, 24 October 2019 12:40:19 PM AEST
+! Last Modified: Thursday, 24 October 2019 4:40:19 PM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -20358,8 +20358,8 @@ _zag_cookie.
 ||displaymarketplace.com^$third-party
 ||displaymate.com/cgi-bin/stat/
 ||disqus.com
-||disqus.com/api/*/listrelated.json?
 ||disqus.com/api/*/listRelated.json?
+||disqus.com/api/*/listrelated.json?
 ||disqus.com/api/ping
 ||disqus.com/api/ping?$domain=autobild.de
 ||disqus.com/api/ping?$third-party
@@ -35568,6 +35568,7 @@ _zag_cookie.
 ||kraker-sh.ru^
 ||kraruzatefci.com^
 ||krasota-olimpia.ru^
+||krboeyeq.com^
 ||krdvzahyr.com^
 ||krezqajxv.bid^
 ||krezqajxv.bid^$important
@@ -38249,6 +38250,7 @@ _zag_cookie.
 ||marisingly.com^$important
 ||markafoni.com/*/__Analytics-Tracking
 ||markedcrayon.com^
+||markedmeasure.com^$important
 ||markedpail.com^
 ||markerly.com^$third-party
 ||market015.com^$third-party
@@ -47154,6 +47156,7 @@ _zag_cookie.
 ||qjoqfapllsbtw.bid^$important
 ||qjpxalhvenbt.com^
 ||qjpxalhvenbt.com^$important
+||qjrlcrkhnj.com^
 ||qjskosdsxanp.com^
 ||qjskosdsxanp.com^$important
 ||qjttowndvet.com^
@@ -66100,4 +66103,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Thursday, 24 October 2019 12:40:19 PM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Thursday, 24 October 2019 4:40:19 PM AEST)
