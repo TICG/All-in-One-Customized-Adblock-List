@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Thursday, 24 October 2019 8:40:18 PM AEST
+! Last Modified: Thursday, 24 October 2019 10:40:20 PM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -1337,8 +1337,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||*$websocket,domain=agar.io|slither.io|mope.io|diep.io|narwhale.io|kartwars.io|blockor.io|splix.io|sharkz.io|meduzzza.io|wings.io|brutal.io|zlap.io|spinz.io|soccerball.io|rusher.io|duals.io|moomoo.io|bellum.io|vertix.io|sparkchess.com|powerline.io|snok.io|gota.io|protonmail.com|mailinator.com|roblox.com|
 @@||*/blank.gif*$image,domain=www.clariant.com
 @@||*advert*$domain=insite.clariant.com
-@@||*enm.com/*/*Ad$domain=androidworld.it
 @@||*enm.com/*/*ad$domain=androidworld.it
+@@||*enm.com/*/*Ad$domain=androidworld.it
 @@||/js/modernizr.js$script,first-party
 @@||1.bp.blogspot.com
 @@||1001tracklists.com^$generichide
@@ -2922,6 +2922,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||etimg.com/js_etsub/*$script
 @@||eucookiedirective.com^$~third-party
 @@||europa.eu/webtools/*/share.png$image
+@@||europixhd.io/js/serv2/*$script,first-party
 @@||europixhd.net/js/serv2/*$script,first-party
 @@||evasionjailbreak.com/wp-content/plugins/*/social_widget.css$stylesheet
 @@||evbstatic.com^*/cookie_header.js
@@ -3878,8 +3879,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||iklangratiz.com^$generichide
 @@||ilsole24ore.com^*/fingerprint2.min.js?
 @@||image.mahoyome.jp/images/$image,domain=mahoyome.jp
-@@||imagebam.com/js/site_ads.js
 @@||imagebam.com/JS/site_ads.js
+@@||imagebam.com/js/site_ads.js
 @@||imagecorn.com^$third-party
 @@||imagefap.com^*/ad_loader.js
 @@||imageg.net^$third-party
@@ -5785,6 +5786,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||static.adziff.com/ab/ads.js
 @@||static.ak.crunchyroll.com/versioned_assets/js/components/ads_enabled.ac6fa3aa.js
 @@||static.akacdn.ru/static/images/*$image,domain=ffmovies.ru
+@@||static.akacdn.ru/static/images/*$image,domain=fmovies.love
 @@||static.akacdn.ru/static/images/*$image,domain=fmovies.se
 @@||static.akacdn.ru/static/images/*$image,domain=fmovies.to
 @@||static.akacdn.ru^$image,domain=fmovies.to
@@ -7274,12 +7276,18 @@ _zag_cookie.
 ||*-a.akamaihd.net/a24/gsd.html?$third-party
 ||*-a.akamaihd.net/a24/scripts/gsd.js?$third-party
 ||*dist/*$script,domain=putlockertv.to
+||*image.png$image,domain=movierulzhd.in|filmsilly.com|1movierulz.be|xmovies.is|yomovies.co|fmovies.love
 ||*image.png$image,domain=movierulzhd.in|filmsilly.com|1movierulz.be|xmovies.is|yomovies.co|fmovies.to
+||*image.png$image,domain=movierulzhd.in|filmsilly.com|1movierulz.be|xmovies.is|yomovies.it|fmovies.love
 ||*image.png$image,domain=movierulzhd.in|filmsilly.com|1movierulz.be|xmovies.is|yomovies.it|fmovies.to
+||*logo.png$image,domain=movierulzhd.in|filmsilly.com|1movierulz.be|xmovies.is|yomovies.co|fmovies.love
 ||*logo.png$image,domain=movierulzhd.in|filmsilly.com|1movierulz.be|xmovies.is|yomovies.co|fmovies.to
+||*logo.png$image,domain=movierulzhd.in|filmsilly.com|1movierulz.be|xmovies.is|yomovies.it|fmovies.love
 ||*logo.png$image,domain=movierulzhd.in|filmsilly.com|1movierulz.be|xmovies.is|yomovies.it|fmovies.to
 ||*plugins/skift-popup/js/script-min.js$script,domain=skift.com
+||*warning.png$image,domain=movierulzhd.in|filmsilly.com|1movierulz.be|xmovies.is|yomovies.co|fmovies.love
 ||*warning.png$image,domain=movierulzhd.in|filmsilly.com|1movierulz.be|xmovies.is|yomovies.co|fmovies.to
+||*warning.png$image,domain=movierulzhd.in|filmsilly.com|1movierulz.be|xmovies.is|yomovies.it|fmovies.love
 ||*warning.png$image,domain=movierulzhd.in|filmsilly.com|1movierulz.be|xmovies.is|yomovies.it|fmovies.to
 ||.agency^$doc,domain=~ Warning displayed due to: It's a topical domain whose sites have an unusally big chance of being fraudulent.
 ||.be/api/gdpr$script
@@ -20360,8 +20368,8 @@ _zag_cookie.
 ||displaymarketplace.com^$third-party
 ||displaymate.com/cgi-bin/stat/
 ||disqus.com
-||disqus.com/api/*/listRelated.json?
 ||disqus.com/api/*/listrelated.json?
+||disqus.com/api/*/listRelated.json?
 ||disqus.com/api/ping
 ||disqus.com/api/ping?$domain=autobild.de
 ||disqus.com/api/ping?$third-party
@@ -23128,6 +23136,7 @@ _zag_cookie.
 ||euromisto.cv.ua/sites/default/files/bnr
 ||euroosvita.osp-ua.info/site/design/euroosvita-banner.gif
 ||europagerank.com^$third-party
+||europixhd.io/js/global.js
 ||europixhd.net/js/global.js
 ||euro-pr.eu^$third-party
 ||europuls.eu^$third-party
@@ -25095,6 +25104,7 @@ _zag_cookie.
 ||fmovies.cab/addons/img/merry_christmas
 ||fmovies.is^$first-party,popup,badfilter
 ||fmovies.is^$xmlhttprequest,domain=fmovies.is,badfilter
+||fmovies.love/ajax/film/update-views
 ||fmovies.se^$first-party,popup,badfilter
 ||fmovies.to/ajax/film/update-views
 ||fmpsrqsib.bid^
@@ -30445,6 +30455,7 @@ _zag_cookie.
 ||hlvvlouaeicp.com^$important
 ||hlvzvisiwbtuwv.com^
 ||hlvzvisiwbtuwv.com^$important
+||hlykwstrvxa.com^
 ||hm.baidu.com^$important
 ||hm.baidu.com^$third-party
 ||hm.com/global/session-tracking
@@ -57367,6 +57378,7 @@ _zag_cookie.
 ||twdsaqqrzbowom.com^
 ||twdsaqqrzbowom.com^$important
 ||tweakbit.com^
+||tweakimg.net/x/vendor/wt/
 ||tweakingtricks.com^
 ||tweako.com/imp.php
 ||tweeboo.com/r/js/CookieDirective$script
@@ -57427,6 +57439,8 @@ _zag_cookie.
 ||twitter.com/scribe?
 ||twitter.com/scribes/
 ||twitter.com/share$third-party
+||twitter.com^$domain=europixhd.io
+||twitter.com^$domain=europixhd.io,important
 ||twitter.com^$domain=europixhd.net
 ||twitter.com^$domain=europixhd.net,important
 ||twitter.com^$domain=ffmovies.to,important
@@ -59279,6 +59293,7 @@ _zag_cookie.
 ||veryblomar.com^
 ||veryboys.com^
 ||verypopularwebsite.com^$third-party
+||verystream.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: cdnjs.cloudflare.com *.verystream.net
 ||vesti.ru/4sport.html
 ||vesti.ru/counter/
 ||vestifinance.ru/js/share.js
@@ -62280,6 +62295,7 @@ _zag_cookie.
 ||www.google.*/imgevent?$script
 ||www.google.*/imghover?$image
 ||www.google.*/pagead$domain=youtube.com
+||www.google.com/favicon.ico$popup,domain=fmovies.love
 ||www.google.com/favicon.ico$popup,domain=fmovies.to
 ||www.haphuongfoundation.net^
 ||www.hey.lt^$third-party
@@ -66113,4 +66129,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Thursday, 24 October 2019 8:40:18 PM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Thursday, 24 October 2019 10:40:20 PM AEST)
