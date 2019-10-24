@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Thursday, 24 October 2019 10:40:20 PM AEST
+! Last Modified: Friday, 25 October 2019 12:40:20 AM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -2439,7 +2439,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||comunio.de/scripts/advertising/adInit*
 @@||comunio.de/scripts/advertising/adInit.
 @@||concert.io^*/concert_ads.js$script,third-party
-@@||config.parsely.com/config/$script,domain=dailystar.co.uk|express.co.uk
+@@||config.parsely.com/config/$script,domain=express.co.uk
 @@||connatix.com/min/connatix.renderer.infeed.min.js$domain=collider.com|gamepress.gg|salon.com
 @@||connect.facebook.com^*/AudienceNetworkPrebid.js$domain=vice.com
 @@||connect.facebook.com^*/audiencenetworkprebid.js$script,domain=screenrant.com
@@ -2451,7 +2451,6 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||consensu.org/gdpr/$script,domain=mentalfloss.com
 @@||consensu.org^$domain=ghacks.net|sourceforge.net
 @@||consent.cmp.oath.com/cmp3p.js$domain=dailystar.co.uk
-@@||consent.cmp.oath.com^$script,domain=dailystar.co.uk|express.co.uk
 @@||consent.cmp.oath.com^$script,domain=express.co.uk
 @@||consent.cookiebot.com/uc.js$domain=radiodresden.de
 @@||consent.cookiebot.com/uc.js$domain=warscrap.io
@@ -3879,8 +3878,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||iklangratiz.com^$generichide
 @@||ilsole24ore.com^*/fingerprint2.min.js?
 @@||image.mahoyome.jp/images/$image,domain=mahoyome.jp
-@@||imagebam.com/JS/site_ads.js
 @@||imagebam.com/js/site_ads.js
+@@||imagebam.com/JS/site_ads.js
 @@||imagecorn.com^$third-party
 @@||imagefap.com^*/ad_loader.js
 @@||imageg.net^$third-party
@@ -4200,6 +4199,7 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||lazada.co.th/js/tracking.js
 @@||leboncoin.fr/js/xiti.js
 @@||leeaws.com/api-cache/chartbeat/?host=$xmlhttprequest,domain=tucson.com
+@@||legendstracking.com/js/legends-tracking.js
 @@||lekane.net/lekane/dialogue-tracking.js?$script
 @@||lemaker.org/uploadfile/icon/google.jpg
 @@||lenovo.com^*/GoogleAnalytics.js
@@ -5825,8 +5825,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||static.mytf1.tf1.fr/assets/js/build/lib/smarttag.js$domain=tf1.fr
 @@||static.parastorage.com^*/ScrollToPlugin.min.js$domain=wix.com|wixsite.com
 @@||static.parsely.com/p.js$domain=nfl.com
-@@||static.parsely.com^$script,domain=dailystar.co.uk|express.co.uk
 @@||static.parsely.com^$script,domain=dailystar.co.uk|express.co.uk|nydailynews.com
+@@||static.parsely.com^$script,domain=express.co.uk
 @@||static.rpxnow.com/js/lib/rpx.js$domain=colbertnation.com|thedailyshow.com
 @@||static.shorte.st^$domain=sh.st
 @@||static.telegraph.co.uk/*/ads.js
@@ -35737,6 +35737,7 @@ _zag_cookie.
 ||kujfhmyoeemqxb.bid^$important
 ||kujkgfzzyeol.com^
 ||kujkgfzzyeol.com^$important
+||kujpycorr.com^
 ||kujwlsnl.com^
 ||kujwlsnl.com^$important
 ||kukudas.com/img/banner/$domain=kukudas.com
@@ -47876,7 +47877,7 @@ _zag_cookie.
 ||rackcdn.com/stf.js
 ||rackcdn.com/stf.js$domain=rg.ru
 ||rackcdn.com^$important
-||rackcdn.com^$script,domain=barrons.com|buysubscriptions.com|cbsnews.com|cbssports.com|cnet.com|cnetfrance.fr|dailystar.co.uk|express.co.uk|gamerant.com|gamespot.com|giantbomb.com|inyt.com|metacritic.com|metrolyrics.com|page3.com|rotoworld.com|scout.com|sh.st|thesun.co.uk|thesun.ie|thesundaytimes.co.uk|thetimes.co.uk|tv.com|tvguide.com|zdnet.com
+||rackcdn.com^$script,domain=barrons.com|buysubscriptions.com|cbsnews.com|cbssports.com|cnet.com|cnetfrance.fr|express.co.uk|gamerant.com|gamespot.com|giantbomb.com|inyt.com|metacritic.com|metrolyrics.com|page3.com|rotoworld.com|scout.com|sh.st|thesun.co.uk|thesun.ie|thesundaytimes.co.uk|thetimes.co.uk|tv.com|tvguide.com|zdnet.com
 ||rackcdn.com^*/analytics.js
 ||r-ad.ne.jp^$third-party
 ||radar.imgsmail.ru^
@@ -66129,4 +66130,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Thursday, 24 October 2019 10:40:20 PM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Friday, 25 October 2019 12:40:20 AM AEST)
