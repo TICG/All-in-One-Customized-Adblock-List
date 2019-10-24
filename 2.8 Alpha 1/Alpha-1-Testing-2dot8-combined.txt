@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 😍 All-in-One Customized Adblock List 2.8 Alpha 1
 ! Expires: 2 hours
-! Last Modified: Thursday, 24 October 2019 4:40:19 PM AEST
+! Last Modified: Thursday, 24 October 2019 6:40:17 PM AEST
 ! Version: 2.8
 ! Build: 
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -3877,8 +3877,8 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||iklangratiz.com^$generichide
 @@||ilsole24ore.com^*/fingerprint2.min.js?
 @@||image.mahoyome.jp/images/$image,domain=mahoyome.jp
-@@||imagebam.com/js/site_ads.js
 @@||imagebam.com/JS/site_ads.js
+@@||imagebam.com/js/site_ads.js
 @@||imagecorn.com^$third-party
 @@||imagefap.com^*/ad_loader.js
 @@||imageg.net^$third-party
@@ -7009,8 +7009,8 @@ _linkedin_32.
 _linkedin_icon_
 _linkedin_social_
 _links/share.
-_loghuman=
 _logHuman=
+_loghuman=
 _logikamentecookielaw/
 _logimpressions.
 _loginlog.php?
@@ -29234,6 +29234,7 @@ _zag_cookie.
 ||h8bjfdcu.com^$important
 ||h8vzwpv.com^
 ||h8vzwpv.com^$important
+||habdhuhuzi.com^
 ||haber365.com/hit?i=
 ||haber7.com/ad-ipmression-pixel/
 ||haber7.com/content/hit/
@@ -40462,6 +40463,7 @@ _zag_cookie.
 ||mxltxnomp.bid^
 ||mxltxnomp.bid^$important
 ||mxmfb.com/rsps/img/
+||mxphrvkcgvcpl.com^
 ||mxpnl.com^$important,third-party
 ||mxpnl.com^$third-party
 ||mxptint.net^$third-party
@@ -66103,4 +66105,4 @@ _zag_cookie.
 =wss://*?pools=
 =xing_icon.
 =xtcore.
-! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Thursday, 24 October 2019 4:40:19 PM AEST)
+! End of Customized All-in-One Adblock List 2.8 Alpha 1 (Thursday, 24 October 2019 6:40:17 PM AEST)
